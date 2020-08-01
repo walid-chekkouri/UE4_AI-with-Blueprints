@@ -1,0 +1,1039 @@
+﻿Log file open, 08/01/20 12:33:00
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: AI_Using_BP
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.099910
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i5-4460  CPU @ 3.20GHz, GPU: NVIDIA GeForce GTX 760
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line:  -EpicPortal -epicusername="Walid Chekkouri" -epicuserid=23a2111a7e15405cba168622ce0f5987 -epiclocale=en
+LogInit: Base Directory: C:/UE24/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.08.01-11.33.00:448][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.08.01-11.33.00:448][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.08.01-11.33.00:448][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/walid/Desktop/AI_Using_BP/Saved/Config/Windows/Engine.ini]
+[2020.08.01-11.33.00:448][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.08.01-11.33.00:448][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/walid/Desktop/AI_Using_BP/Saved/Config/Windows/Engine.ini]
+[2020.08.01-11.33.00:448][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/walid/Desktop/AI_Using_BP/Saved/Config/Windows/Engine.ini]
+[2020.08.01-11.33.00:448][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.08.01-11.33.00:448][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.08.01-11.33.00:449][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.08.01-11.33.00:449][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.08.01-11.33.00:449][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.08.01-11.33.00:449][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.08.01-11.33.00:449][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.08.01-11.33.00:449][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.08.01-11.33.00:449][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.08.01-11.33.00:449][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.08.01-11.33.00:449][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.08.01-11.33.00:449][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.08.01-11.33.00:449][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.08.01-11.33.00:449][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.08.01-11.33.00:449][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/walid/Desktop/AI_Using_BP/Saved/Config/Windows/Engine.ini]
+[2020.08.01-11.33.00:449][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.08.01-11.33.00:449][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.08.01-11.33.00:449][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.08.01-11.33.00:449][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.08.01-11.33.00:449][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.08.01-11.33.00:449][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.08.01-11.33.00:449][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.08.01-11.33.00:449][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.08.01-11.33.00:449][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.08.01-11.33.00:449][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.08.01-11.33.00:449][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.08.01-11.33.00:449][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.08.01-11.33.00:449][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.08.01-11.33.00:449][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/walid/Desktop/AI_Using_BP/Saved/Config/Windows/Engine.ini]
+[2020.08.01-11.33.00:449][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/walid/Desktop/AI_Using_BP/Saved/Config/Windows/Engine.ini]
+[2020.08.01-11.33.00:453][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/walid/Desktop/AI_Using_BP/Saved/Config/Windows/Scalability.ini]
+[2020.08.01-11.33.00:453][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.08.01-11.33.00:453][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.08.01-11.33.00:453][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/walid/Desktop/AI_Using_BP/Saved/Config/Windows/Scalability.ini]
+[2020.08.01-11.33.00:453][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.08.01-11.33.00:453][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/walid/Desktop/AI_Using_BP/Saved/Config/Windows/Scalability.ini]
+[2020.08.01-11.33.00:453][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.08.01-11.33.00:454][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.08.01-11.33.00:454][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.08.01-11.33.00:454][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.08.01-11.33.00:454][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.08.01-11.33.00:454][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.08.01-11.33.00:454][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.08.01-11.33.00:454][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.08.01-11.33.00:454][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.08.01-11.33.00:454][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.08.01-11.33.00:454][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.08.01-11.33.00:454][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.08.01-11.33.00:454][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.08.01-11.33.00:454][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.08.01-11.33.00:454][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.08.01-11.33.00:454][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.08.01-11.33.00:454][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.08.01-11.33.00:454][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.08.01-11.33.00:454][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/walid/Desktop/AI_Using_BP/Saved/Config/Windows/Scalability.ini]
+[2020.08.01-11.33.00:454][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.08.01-11.33.00:454][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.08.01-11.33.00:454][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.08.01-11.33.00:454][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.08.01-11.33.00:454][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.08.01-11.33.00:454][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.08.01-11.33.00:454][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.08.01-11.33.00:454][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.08.01-11.33.00:454][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.08.01-11.33.00:454][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.08.01-11.33.00:454][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.08.01-11.33.00:454][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.08.01-11.33.00:454][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.08.01-11.33.00:455][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.08.01-11.33.00:455][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.08.01-11.33.00:455][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.08.01-11.33.00:455][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.08.01-11.33.00:455][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.08.01-11.33.00:455][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.08.01-11.33.00:455][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.08.01-11.33.00:455][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.08.01-11.33.00:455][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.08.01-11.33.00:455][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.08.01-11.33.00:455][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.08.01-11.33.00:455][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.08.01-11.33.00:455][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.08.01-11.33.00:455][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.08.01-11.33.00:455][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.08.01-11.33.00:455][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.08.01-11.33.00:455][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.08.01-11.33.00:455][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/walid/Desktop/AI_Using_BP/Saved/Config/Windows/Scalability.ini]
+[2020.08.01-11.33.00:455][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.08.01-11.33.00:455][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.08.01-11.33.00:455][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.08.01-11.33.00:455][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.08.01-11.33.00:455][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.08.01-11.33.00:455][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.08.01-11.33.00:455][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.08.01-11.33.00:455][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.08.01-11.33.00:455][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.08.01-11.33.00:455][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/walid/Desktop/AI_Using_BP/Saved/Config/Windows/Scalability.ini]
+[2020.08.01-11.33.00:455][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.08.01-11.33.00:455][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.08.01-11.33.00:455][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.08.01-11.33.00:456][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.08.01-11.33.00:456][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.08.01-11.33.00:456][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.08.01-11.33.00:456][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.08.01-11.33.00:456][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.08.01-11.33.00:456][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.08.01-11.33.00:456][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.08.01-11.33.00:456][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.08.01-11.33.00:456][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.08.01-11.33.00:456][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.08.01-11.33.00:456][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.08.01-11.33.00:456][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.08.01-11.33.00:456][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.08.01-11.33.00:456][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.08.01-11.33.00:456][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.08.01-11.33.00:456][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.08.01-11.33.00:456][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.08.01-11.33.00:456][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.08.01-11.33.00:456][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.08.01-11.33.00:456][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.08.01-11.33.00:456][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.08.01-11.33.00:456][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.08.01-11.33.00:456][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.08.01-11.33.00:456][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/walid/Desktop/AI_Using_BP/Saved/Config/Windows/Scalability.ini]
+[2020.08.01-11.33.00:456][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.08.01-11.33.00:456][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.08.01-11.33.00:456][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/walid/Desktop/AI_Using_BP/Saved/Config/Windows/Scalability.ini]
+[2020.08.01-11.33.00:456][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.08.01-11.33.00:456][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.08.01-11.33.00:456][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.08.01-11.33.00:457][  0]LogInit: Selected Device Profile: [Windows]
+[2020.08.01-11.33.00:457][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.08.01-11.33.00:460][  0]LogHAL: Display: Platform has ~ 8 GB [8529547264 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.08.01-11.33.00:460][  0]LogInit: Going up to parent DeviceProfile []
+[2020.08.01-11.33.00:460][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@2] File [C:/Users/walid/Desktop/AI_Using_BP/Saved/Config/Windows/Scalability.ini]
+[2020.08.01-11.33.00:460][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.08.01-11.33.00:460][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.8]]
+[2020.08.01-11.33.00:460][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@2] File [C:/Users/walid/Desktop/AI_Using_BP/Saved/Config/Windows/Scalability.ini]
+[2020.08.01-11.33.00:460][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2020.08.01-11.33.00:460][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@2] File [C:/Users/walid/Desktop/AI_Using_BP/Saved/Config/Windows/Scalability.ini]
+[2020.08.01-11.33.00:460][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.08.01-11.33.00:460][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.08.01-11.33.00:460][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:4]]
+[2020.08.01-11.33.00:460][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:1024]]
+[2020.08.01-11.33.00:460][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.08.01-11.33.00:460][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.04]]
+[2020.08.01-11.33.00:460][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.85]]
+[2020.08.01-11.33.00:461][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0.8]]
+[2020.08.01-11.33.00:461][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2020.08.01-11.33.00:461][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.08.01-11.33.00:461][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.08.01-11.33.00:461][  0]LogConfig: Setting CVar [[r.AOQuality:1]]
+[2020.08.01-11.33.00:461][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.08.01-11.33.00:461][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:16]]
+[2020.08.01-11.33.00:461][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:64]]
+[2020.08.01-11.33.00:461][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.08.01-11.33.00:461][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.08.01-11.33.00:461][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.08.01-11.33.00:461][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@2] File [C:/Users/walid/Desktop/AI_Using_BP/Saved/Config/Windows/Scalability.ini]
+[2020.08.01-11.33.00:461][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:3]]
+[2020.08.01-11.33.00:461][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.6]]
+[2020.08.01-11.33.00:461][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.08.01-11.33.00:461][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.08.01-11.33.00:461][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2020.08.01-11.33.00:461][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.08.01-11.33.00:461][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.08.01-11.33.00:461][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.08.01-11.33.00:461][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.08.01-11.33.00:461][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.08.01-11.33.00:462][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.08.01-11.33.00:462][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:3]]
+[2020.08.01-11.33.00:462][  0]LogConfig: Setting CVar [[r.Upscale.Quality:2]]
+[2020.08.01-11.33.00:462][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.08.01-11.33.00:462][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.08.01-11.33.00:462][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.8]]
+[2020.08.01-11.33.00:462][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.08.01-11.33.00:462][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2020.08.01-11.33.00:462][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2020.08.01-11.33.00:462][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.08.01-11.33.00:462][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.08.01-11.33.00:462][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.08.01-11.33.00:462][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:1    ; no background occlusion]]
+[2020.08.01-11.33.00:462][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:0      ; no bokeh simulation when scattering]]
+[2020.08.01-11.33.00:462][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.04        ; only a maximum of 4% of scattered bokeh]]
+[2020.08.01-11.33.00:462][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2020.08.01-11.33.00:462][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2020.08.01-11.33.00:462][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2020.08.01-11.33.00:462][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2020.08.01-11.33.00:462][  0]LogConfig: Applying CVar settings from Section [TextureQuality@2] File [C:/Users/walid/Desktop/AI_Using_BP/Saved/Config/Windows/Scalability.ini]
+[2020.08.01-11.33.00:462][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.08.01-11.33.00:462][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.08.01-11.33.00:462][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.08.01-11.33.00:462][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.08.01-11.33.00:463][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:4]]
+[2020.08.01-11.33.00:463][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.08.01-11.33.00:463][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2020.08.01-11.33.00:463][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:800]]
+[2020.08.01-11.33.00:463][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.08.01-11.33.00:463][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@2] File [C:/Users/walid/Desktop/AI_Using_BP/Saved/Config/Windows/Scalability.ini]
+[2020.08.01-11.33.00:463][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:48]]
+[2020.08.01-11.33.00:463][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.08.01-11.33.00:463][  0]LogConfig: Setting CVar [[r.SSR.Quality:2]]
+[2020.08.01-11.33.00:463][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:1]]
+[2020.08.01-11.33.00:463][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2020.08.01-11.33.00:463][  0]LogConfig: Setting CVar [[r.DetailMode:1]]
+[2020.08.01-11.33.00:463][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.08.01-11.33.00:463][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.08.01-11.33.00:463][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.08.01-11.33.00:463][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:1]]
+[2020.08.01-11.33.00:463][  0]LogConfig: Setting CVar [[r.SSS.Quality:-1]]
+[2020.08.01-11.33.00:463][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.08.01-11.33.00:463][  0]LogConfig: Setting CVar [[r.SSGI.Quality:2]]
+[2020.08.01-11.33.00:463][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.5]]
+[2020.08.01-11.33.00:463][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:1]]
+[2020.08.01-11.33.00:463][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.08.01-11.33.00:463][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.08.01-11.33.00:463][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.08.01-11.33.00:463][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.08.01-11.33.00:463][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.08.01-11.33.00:463][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.08.01-11.33.00:463][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.08.01-11.33.00:463][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.08.01-11.33.00:463][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.08.01-11.33.00:463][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.08.01-11.33.00:463][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.08.01-11.33.00:464][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/walid/Desktop/AI_Using_BP/Saved/Config/Windows/Scalability.ini]
+[2020.08.01-11.33.00:464][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.08.01-11.33.00:464][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.08.01-11.33.00:464][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/walid/Desktop/AI_Using_BP/Saved/Config/Windows/Scalability.ini]
+[2020.08.01-11.33.00:464][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.08.01-11.33.00:464][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.08.01-11.33.00:464][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.08.01-11.33.00:464][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.08.01-11.33.00:464][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.08.01-11.33.00:464][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.08.01-11.33.00:464][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/walid/Desktop/AI_Using_BP/Saved/Config/Windows/Engine.ini]
+[2020.08.01-11.33.00:464][  0]LogInit: Computer: MSI
+[2020.08.01-11.33.00:464][  0]LogInit: User: walid
+[2020.08.01-11.33.00:464][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.08.01-11.33.00:465][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.08.01-11.33.00:465][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2020.08.01-11.33.00:465][  0]LogMemory: Platform Memory Stats for Windows
+[2020.08.01-11.33.00:465][  0]LogMemory: Process Physical Memory: 104.21 MB used, 104.22 MB peak
+[2020.08.01-11.33.00:465][  0]LogMemory: Process Virtual Memory: 99.90 MB used, 99.91 MB peak
+[2020.08.01-11.33.00:465][  0]LogMemory: Physical Memory: 6617.14 MB used,  1517.27 MB free, 8134.41 MB total
+[2020.08.01-11.33.00:465][  0]LogMemory: Virtual Memory: 5087.86 MB used,  134212640.00 MB free, 134217728.00 MB total
+[2020.08.01-11.33.00:470][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.08.01-11.33.00:500][  0]LogInit: Using OS detected language (fr-FR).
+[2020.08.01-11.33.00:500][  0]LogInit: Using OS detected locale (fr-FR).
+[2020.08.01-11.33.00:502][  0]LogTextLocalizationManager: No specific localization for 'fr-FR' exists, so the 'fr' localization will be used.
+[2020.08.01-11.33.00:502][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/fr/Editor.locres' could not be opened for reading!
+[2020.08.01-11.33.00:502][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/fr/EditorTutorials.locres' could not be opened for reading!
+[2020.08.01-11.33.00:503][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/fr/Keywords.locres' could not be opened for reading!
+[2020.08.01-11.33.00:503][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/fr/Category.locres' could not be opened for reading!
+[2020.08.01-11.33.00:503][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/fr/ToolTips.locres' could not be opened for reading!
+[2020.08.01-11.33.00:503][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/fr/PropertyNames.locres' could not be opened for reading!
+[2020.08.01-11.33.00:503][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/fr/Engine.locres' could not be opened for reading!
+[2020.08.01-11.33.00:505][  0]LogInit: Setting process to per monitor DPI aware
+[2020.08.01-11.33.00:541][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.08.01-11.33.00:541][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.08.01-11.33.00:793][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.08.01-11.33.00:793][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.08.01-11.33.00:793][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.08.01-11.33.00:793][  0]LogD3D11RHI: D3D11 adapters:
+[2020.08.01-11.33.00:888][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 760' (Feature Level 11_0)
+[2020.08.01-11.33.00:888][  0]LogD3D11RHI:       2007/0/4067 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.08.01-11.33.00:893][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.08.01-11.33.00:893][  0]LogD3D11RHI:       0/0/4067 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.08.01-11.33.00:893][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.08.01-11.33.00:903][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.08.01-11.33.00:903][  0]LogD3D11RHI:     GPU DeviceId: 0x1187 (for the marketing name, search the web for "GPU Device Id")
+[2020.08.01-11.33.00:903][  0]LogWindows: EnumDisplayDevices:
+[2020.08.01-11.33.00:904][  0]LogWindows:    0. 'NVIDIA GeForce GTX 760' (P:1 D:1)
+[2020.08.01-11.33.00:905][  0]LogWindows:    1. 'NVIDIA GeForce GTX 760' (P:0 D:0)
+[2020.08.01-11.33.00:905][  0]LogWindows:    2. 'NVIDIA GeForce GTX 760' (P:0 D:0)
+[2020.08.01-11.33.00:906][  0]LogWindows:    3. 'NVIDIA GeForce GTX 760' (P:0 D:0)
+[2020.08.01-11.33.00:906][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.08.01-11.33.00:906][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 760
+[2020.08.01-11.33.00:906][  0]LogD3D11RHI:   Driver Version: 432.00 (internal:26.21.14.3200, unified:432.00)
+[2020.08.01-11.33.00:906][  0]LogD3D11RHI:      Driver Date: 7-24-2019
+[2020.08.01-11.33.00:906][  0]LogRHI: Texture pool is 1405 MB (70% of 2007 MB)
+[2020.08.01-11.33.00:967][  0]LogD3D11RHI: RHI does not have support for 64 bit atomics
+[2020.08.01-11.33.00:968][  0]LogD3D11RHI: Async texture creation enabled
+[2020.08.01-11.33.01:167][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.08.01-11.33.02:352][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.08.01-11.33.02:405][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.08.01-11.33.02:405][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.08.01-11.33.02:405][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.08.01-11.33.02:405][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.08.01-11.33.02:405][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.08.01-11.33.02:405][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.08.01-11.33.02:405][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.08.01-11.33.02:405][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.08.01-11.33.02:405][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.08.01-11.33.02:405][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.08.01-11.33.02:406][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.08.01-11.33.02:406][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.08.01-11.33.02:406][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.08.01-11.33.02:406][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.08.01-11.33.02:406][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.08.01-11.33.02:406][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.08.01-11.33.02:406][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.08.01-11.33.02:406][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.08.01-11.33.02:451][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.08.01-11.33.02:451][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.08.01-11.33.02:460][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.08.01-11.33.02:470][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.08.01-11.33.02:481][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.08.01-11.33.02:491][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.08.01-11.33.02:500][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.08.01-11.33.02:510][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.08.01-11.33.02:544][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.08.01-11.33.02:544][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.08.01-11.33.02:563][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.08.01-11.33.02:563][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.08.01-11.33.02:573][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.08.01-11.33.02:583][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.08.01-11.33.02:592][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.08.01-11.33.02:602][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.08.01-11.33.02:602][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.08.01-11.33.02:607][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.08.01-11.33.02:642][  0]LogShaderCompilers: Guid format shader working directory is -1 characters bigger than the processId version (../../../../../Users/walid/Desktop/AI_Using_BP/Intermediate/Shaders/WorkingDirectory/12368/).
+[2020.08.01-11.33.02:642][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/walid/AppData/Local/Temp/UnrealShaderWorkingDir/C99C445E4A678A11BA4A94BBFE8C8712/'.
+[2020.08.01-11.33.02:643][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.08.01-11.33.02:643][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.08.01-11.33.02:643][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.08.01-11.33.03:590][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.08.01-11.33.03:682][  0]LogDerivedDataCache: Loaded boot cache 0.09s 78MB C:/Users/walid/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.08.01-11.33.03:683][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/walid/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.08.01-11.33.03:683][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Users/walid/Desktop/AI_Using_BP/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.08.01-11.33.03:683][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.08.01-11.33.03:683][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Users/walid/Desktop/AI_Using_BP/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.08.01-11.33.03:683][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.08.01-11.33.03:695][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.08.01-11.33.03:695][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.08.01-11.33.03:695][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.08.01-11.33.03:697][  0]LogDerivedDataCache: Using Local data cache path C:/Users/walid/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.08.01-11.33.03:697][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.08.01-11.33.03:697][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.08.01-11.33.03:725][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.08.01-11.33.03:728][  0]LogSlate: Using FreeType 2.10.0
+[2020.08.01-11.33.03:807][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.08.01-11.33.07:658][  0]LogAssetRegistry: FAssetRegistry took 0.0032 seconds to start up
+[2020.08.01-11.33.07:994][  0]LogInit: Selected Device Profile: [Windows]
+[2020.08.01-11.33.08:188][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.08.01-11.33.08:188][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.08.01-11.33.08:188][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.08.01-11.33.08:188][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.08.01-11.33.08:188][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.08.01-11.33.08:203][  0]LogNetVersion: AI_Using_BP 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 3299779684)
+[2020.08.01-11.33.51:710][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.198503 seconds
+[2020.08.01-11.33.51:719][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.08.01-11.33.51:719][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.08.01-11.33.51:719][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.08.01-11.33.53:184][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.08.01-11.33.53:528][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.08.01-11.33.53:746][  0]SourceControl: Source control is disabled
+[2020.08.01-11.33.53:746][  0]SourceControl: Source control is disabled
+[2020.08.01-11.33.53:748][  0]SourceControl: Source control is disabled
+[2020.08.01-11.33.53:749][  0]SourceControl: Source control is disabled
+[2020.08.01-11.33.53:751][  0]SourceControl: Source control is disabled
+[2020.08.01-11.33.54:312][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.08.01-11.33.54:328][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.08.01-11.33.54:328][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.08.01-11.33.54:443][  0]LogOcInput: OculusInput pre-init called
+[2020.08.01-11.33.54:454][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.08.01-11.33.54:454][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.08.01-11.33.54:587][  0]LogEngine: Initializing Engine...
+[2020.08.01-11.33.54:589][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.08.01-11.33.54:591][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.08.01-11.33.55:029][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.08.01-11.33.55:039][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.08.01-11.33.55:055][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.01-11.33.55:055][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.01-11.33.55:055][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.01-11.33.55:055][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.01-11.33.55:055][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.01-11.33.55:056][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.01-11.33.55:056][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.01-11.33.55:056][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.01-11.33.55:056][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.01-11.33.55:056][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.01-11.33.55:103][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.08.01-11.33.55:103][  0]LogAudioMixer: Display: Name: Speakers (2- USB PnP Sound Device)
+[2020.08.01-11.33.55:103][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.08.01-11.33.55:103][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.08.01-11.33.55:103][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.08.01-11.33.55:103][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.08.01-11.33.55:103][  0]LogAudioMixer: Display: Channel Order:
+[2020.08.01-11.33.55:103][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.01-11.33.55:103][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.08.01-11.33.55:143][  0]LogAudioMixer: Display: Using Audio Device Speakers (2- USB PnP Sound Device)
+[2020.08.01-11.33.55:149][  0]LogInit: FAudioDevice initialized.
+[2020.08.01-11.33.55:150][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.08.01-11.33.55:700][  0]LogDerivedDataCache: Saved boot cache 0.55s 78MB C:/Users/walid/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.08.01-11.33.55:704][  0]LogInit: Texture streaming: Enabled
+[2020.08.01-11.33.55:829][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.08.01-11.33.55:829][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.08.01-11.33.55:851][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.08.01-11.33.55:942][  0]LogInit: Transaction tracking system initialized
+[2020.08.01-11.33.56:066][  0]BlueprintLog: New page: Editor Load
+[2020.08.01-11.33.56:583][  0]LocalizationService: Localization service is disabled
+[2020.08.01-11.33.59:406][  0]LogFileCache: Scanning file cache for directory 'C:/Users/walid/Desktop/AI_Using_BP/Content/' took 0.00s
+[2020.08.01-11.33.59:406][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.08.01-11.33.59:406][  0]LogCook: Display: Mobile HDR setting 1
+[2020.08.01-11.34.03:958][  0]SourceControl: Source control is disabled
+[2020.08.01-11.34.04:114][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/UE24/UE_4.24/FeaturePacks/StarterContent.upack)
+[2020.08.01-11.34.04:389][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2020.08.01-11.34.04:457][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2020.08.01-11.34.04:518][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2020.08.01-11.34.04:552][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2020.08.01-11.34.04:563][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2020.08.01-11.34.04:585][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2020.08.01-11.34.04:602][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2020.08.01-11.34.04:613][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2020.08.01-11.34.04:633][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2020.08.01-11.34.04:684][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2020.08.01-11.34.04:735][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2020.08.01-11.34.04:811][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2020.08.01-11.34.04:960][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Audio/Collapse01.uasset"
+[2020.08.01-11.34.05:017][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Audio/Collapse02.uasset"
+[2020.08.01-11.34.05:049][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2020.08.01-11.34.05:062][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Audio/Explosion01.uasset"
+[2020.08.01-11.34.05:072][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Audio/Explosion02.uasset"
+[2020.08.01-11.34.05:084][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2020.08.01-11.34.05:139][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Audio/Fire01.uasset"
+[2020.08.01-11.34.05:184][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2020.08.01-11.34.05:250][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2020.08.01-11.34.05:259][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2020.08.01-11.34.05:314][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Audio/Light01.uasset"
+[2020.08.01-11.34.05:396][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2020.08.01-11.34.05:469][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Audio/Light02.uasset"
+[2020.08.01-11.34.05:512][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2020.08.01-11.34.05:566][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Audio/Smoke01.uasset"
+[2020.08.01-11.34.05:578][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2020.08.01-11.34.05:620][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2020.08.01-11.34.05:822][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2020.08.01-11.34.06:187][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2020.08.01-11.34.06:252][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2020.08.01-11.34.06:377][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2020.08.01-11.34.06:575][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2020.08.01-11.34.06:654][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Audio/Steam01.uasset"
+[2020.08.01-11.34.06:702][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2020.08.01-11.34.06:760][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2020.08.01-11.34.06:824][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2020.08.01-11.34.06:879][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2020.08.01-11.34.06:926][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2020.08.01-11.34.06:985][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2020.08.01-11.34.07:077][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2020.08.01-11.34.07:126][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2020.08.01-11.34.07:143][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2020.08.01-11.34.07:223][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2020.08.01-11.34.07:295][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2020.08.01-11.34.07:348][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2020.08.01-11.34.07:401][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2020.08.01-11.34.07:459][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2020.08.01-11.34.07:645][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2020.08.01-11.34.07:670][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2020.08.01-11.34.07:708][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2020.08.01-11.34.09:348][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2020.08.01-11.34.09:549][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2020.08.01-11.34.09:665][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2020.08.01-11.34.09:733][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Maps/Minimal_Default.umap"
+[2020.08.01-11.34.09:939][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2020.08.01-11.34.09:959][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Maps/StarterMap.umap"
+[2020.08.01-11.34.10:751][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2020.08.01-11.34.10:861][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2020.08.01-11.34.11:404][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2020.08.01-11.34.11:658][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2020.08.01-11.34.11:847][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2020.08.01-11.34.11:930][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2020.08.01-11.34.12:227][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2020.08.01-11.34.12:238][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2020.08.01-11.34.12:288][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2020.08.01-11.34.12:295][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2020.08.01-11.34.12:338][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2020.08.01-11.34.12:399][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2020.08.01-11.34.12:510][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2020.08.01-11.34.12:569][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2020.08.01-11.34.12:599][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2020.08.01-11.34.12:634][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2020.08.01-11.34.12:740][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2020.08.01-11.34.12:758][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2020.08.01-11.34.12:774][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Materials/M_Glass.uasset"
+[2020.08.01-11.34.12:782][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2020.08.01-11.34.12:796][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2020.08.01-11.34.12:819][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2020.08.01-11.34.12:834][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2020.08.01-11.34.12:847][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2020.08.01-11.34.12:891][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2020.08.01-11.34.12:906][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2020.08.01-11.34.12:940][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2020.08.01-11.34.13:173][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2020.08.01-11.34.13:200][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2020.08.01-11.34.13:247][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2020.08.01-11.34.13:271][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2020.08.01-11.34.13:288][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2020.08.01-11.34.13:315][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2020.08.01-11.34.13:341][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2020.08.01-11.34.13:412][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2020.08.01-11.34.13:517][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2020.08.01-11.34.13:559][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2020.08.01-11.34.13:606][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2020.08.01-11.34.13:717][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2020.08.01-11.34.13:840][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2020.08.01-11.34.13:895][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2020.08.01-11.34.13:946][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2020.08.01-11.34.13:953][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2020.08.01-11.34.13:975][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2020.08.01-11.34.13:987][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2020.08.01-11.34.14:001][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Particles/P_Explosion.uasset"
+[2020.08.01-11.34.14:080][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Particles/P_Fire.uasset"
+[2020.08.01-11.34.14:098][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Particles/P_Smoke.uasset"
+[2020.08.01-11.34.14:118][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Particles/P_Sparks.uasset"
+[2020.08.01-11.34.14:127][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2020.08.01-11.34.14:137][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2020.08.01-11.34.14:153][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2020.08.01-11.34.14:184][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2020.08.01-11.34.14:201][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2020.08.01-11.34.14:230][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2020.08.01-11.34.14:278][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2020.08.01-11.34.14:420][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2020.08.01-11.34.14:459][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2020.08.01-11.34.14:531][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2020.08.01-11.34.14:575][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2020.08.01-11.34.14:594][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Props/MaterialSphere.uasset"
+[2020.08.01-11.34.14:727][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Props/SM_Bush.uasset"
+[2020.08.01-11.34.14:752][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Props/SM_Chair.uasset"
+[2020.08.01-11.34.14:777][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2020.08.01-11.34.14:875][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Props/SM_Couch.uasset"
+[2020.08.01-11.34.14:953][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Props/SM_Door.uasset"
+[2020.08.01-11.34.15:030][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2020.08.01-11.34.15:074][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2020.08.01-11.34.15:100][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2020.08.01-11.34.15:123][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2020.08.01-11.34.15:225][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2020.08.01-11.34.15:307][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2020.08.01-11.34.15:368][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2020.08.01-11.34.15:426][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Props/SM_Rock.uasset"
+[2020.08.01-11.34.15:482][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Props/SM_Shelf.uasset"
+[2020.08.01-11.34.15:521][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Props/SM_Stairs.uasset"
+[2020.08.01-11.34.15:574][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Props/SM_Statue.uasset"
+[2020.08.01-11.34.15:636][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Props/SM_TableRound.uasset"
+[2020.08.01-11.34.15:679][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2020.08.01-11.34.15:945][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2020.08.01-11.34.15:975][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2020.08.01-11.34.16:029][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2020.08.01-11.34.16:043][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2020.08.01-11.34.16:064][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2020.08.01-11.34.16:074][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2020.08.01-11.34.16:134][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2020.08.01-11.34.16:184][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2020.08.01-11.34.16:283][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2020.08.01-11.34.16:332][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2020.08.01-11.34.16:352][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2020.08.01-11.34.16:391][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2020.08.01-11.34.16:440][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2020.08.01-11.34.16:529][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2020.08.01-11.34.16:557][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2020.08.01-11.34.16:582][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2020.08.01-11.34.16:635][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2020.08.01-11.34.16:685][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2020.08.01-11.34.16:741][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2020.08.01-11.34.16:996][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2020.08.01-11.34.17:029][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2020.08.01-11.34.17:044][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2020.08.01-11.34.17:068][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2020.08.01-11.34.17:093][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2020.08.01-11.34.17:365][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2020.08.01-11.34.17:396][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2020.08.01-11.34.17:542][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2020.08.01-11.34.17:564][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2020.08.01-11.34.17:582][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2020.08.01-11.34.17:598][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2020.08.01-11.34.17:622][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2020.08.01-11.34.18:033][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2020.08.01-11.34.18:306][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2020.08.01-11.34.18:689][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2020.08.01-11.34.18:946][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2020.08.01-11.34.19:070][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2020.08.01-11.34.19:336][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2020.08.01-11.34.19:578][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2020.08.01-11.34.19:923][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2020.08.01-11.34.20:345][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2020.08.01-11.34.20:606][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2020.08.01-11.34.21:031][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2020.08.01-11.34.21:310][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2020.08.01-11.34.21:907][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2020.08.01-11.34.21:990][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2020.08.01-11.34.22:052][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2020.08.01-11.34.22:073][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2020.08.01-11.34.22:100][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2020.08.01-11.34.22:117][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2020.08.01-11.34.22:130][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2020.08.01-11.34.22:313][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2020.08.01-11.34.22:359][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2020.08.01-11.34.23:206][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2020.08.01-11.34.23:264][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2020.08.01-11.34.23:910][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2020.08.01-11.34.24:059][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2020.08.01-11.34.24:593][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2020.08.01-11.34.24:805][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2020.08.01-11.34.25:000][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2020.08.01-11.34.25:448][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2020.08.01-11.34.26:037][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2020.08.01-11.34.26:315][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2020.08.01-11.34.26:599][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2020.08.01-11.34.27:329][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2020.08.01-11.34.27:538][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2020.08.01-11.34.27:761][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2020.08.01-11.34.28:108][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2020.08.01-11.34.28:697][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2020.08.01-11.34.28:721][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2020.08.01-11.34.28:805][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2020.08.01-11.34.28:860][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Textures/T_Door_M.uasset"
+[2020.08.01-11.34.29:048][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Textures/T_Door_N.uasset"
+[2020.08.01-11.34.29:086][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2020.08.01-11.34.29:236][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2020.08.01-11.34.29:338][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2020.08.01-11.34.29:601][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2020.08.01-11.34.29:663][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2020.08.01-11.34.29:741][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2020.08.01-11.34.29:977][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2020.08.01-11.34.30:274][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2020.08.01-11.34.30:619][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2020.08.01-11.34.31:016][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2020.08.01-11.34.31:560][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2020.08.01-11.34.31:885][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2020.08.01-11.34.32:095][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2020.08.01-11.34.32:185][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2020.08.01-11.34.32:965][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2020.08.01-11.34.33:626][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2020.08.01-11.34.34:122][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2020.08.01-11.34.34:276][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2020.08.01-11.34.34:963][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2020.08.01-11.34.35:065][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2020.08.01-11.34.35:164][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2020.08.01-11.34.35:733][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2020.08.01-11.34.35:925][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2020.08.01-11.34.36:101][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2020.08.01-11.34.36:464][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2020.08.01-11.34.36:842][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2020.08.01-11.34.37:229][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2020.08.01-11.34.37:564][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2020.08.01-11.34.38:019][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2020.08.01-11.34.38:532][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2020.08.01-11.34.38:970][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2020.08.01-11.34.39:643][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2020.08.01-11.34.40:114][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2020.08.01-11.34.40:511][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2020.08.01-11.34.41:018][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2020.08.01-11.34.41:053][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2020.08.01-11.34.41:162][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2020.08.01-11.34.41:398][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2020.08.01-11.34.41:586][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2020.08.01-11.34.41:726][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2020.08.01-11.34.41:782][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2020.08.01-11.34.41:817][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2020.08.01-11.34.41:899][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2020.08.01-11.34.42:229][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2020.08.01-11.34.42:556][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2020.08.01-11.34.42:618][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2020.08.01-11.34.42:703][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2020.08.01-11.34.42:799][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2020.08.01-11.34.42:866][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2020.08.01-11.34.42:969][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2020.08.01-11.34.43:130][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2020.08.01-11.34.43:252][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Textures/T_Water_M.uasset"
+[2020.08.01-11.34.43:722][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Textures/T_Water_N.uasset"
+[2020.08.01-11.34.43:882][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2020.08.01-11.34.44:168][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2020.08.01-11.34.44:355][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2020.08.01-11.34.44:658][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2020.08.01-11.34.45:209][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2020.08.01-11.34.45:540][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2020.08.01-11.34.45:706][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2020.08.01-11.34.46:054][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2020.08.01-11.34.46:207][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2020.08.01-11.34.53:620][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 9 NumSamples 1 (Frame:1).
+[2020.08.01-11.34.55:028][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Architecture/Floor_400x400" FILE="../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Architecture/Floor_400x400.uasset" SILENT=true
+[2020.08.01-11.34.56:263][  0]LogSavePackage: Moving '../../../../../Users/walid/Desktop/AI_Using_BP/Saved/Floor_400x400BA5E8233488FEE86E11292B2DCA91A72.tmp' to '../../../../../Users/walid/Desktop/AI_Using_BP/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2020.08.01-11.34.56:623][  0]LogFeaturePack: Warning: Inserted 2 feature packs
+[2020.08.01-11.34.56:690][  0]Cmd: MAP LOAD FILE="../../../../../Users/walid/Desktop/AI_Using_BP/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.08.01-11.34.56:714][  0]LightingResults: New page: Lighting Build
+[2020.08.01-11.34.56:868][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.08.01-11.34.57:151][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.01-11.34.57:217][  0]MapCheck: New page: Map Check
+[2020.08.01-11.34.57:217][  0]LightingResults: New page: Lighting Build
+[2020.08.01-11.34.58:794][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2020.08.01-11.35.05:628][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.08.01-11.35.06:730][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.08.01-11.35.07:015][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2020.08.01-11.35.07:043][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.08.01-11.35.07:043][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,176ms to complete.
+[2020.08.01-11.35.07:051][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 10.423
+[2020.08.01-11.35.10:697][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.01-11.35.10:815][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.01-11.35.10:822][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.01-11.35.10:830][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.01-11.35.11:396][  0]LogCollectionManager: Loaded 0 collections in 0.063262 seconds
+[2020.08.01-11.35.11:794][  0]LogFileCache: Scanning file cache for directory 'C:/Users/walid/Desktop/AI_Using_BP/Saved/Collections/' took 0.00s
+[2020.08.01-11.35.11:794][  0]LogFileCache: Scanning file cache for directory 'C:/Users/walid/Desktop/AI_Using_BP/Content/Developers/walid/Collections/' took 0.00s
+[2020.08.01-11.35.11:794][  0]LogFileCache: Scanning file cache for directory 'C:/Users/walid/Desktop/AI_Using_BP/Content/Collections/' took 0.00s
+[2020.08.01-11.35.11:794][  0]LogContentBrowser: Native class hierarchy populated in 0.0096 seconds. Added 3015 classes and 717 folders.
+[2020.08.01-11.35.11:998][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.08.01-11.35.15:721][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2020.08.01-11.35.16:248][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0009 seconds. Added 2 classes and 3 folders.
+[2020.08.01-11.35.21:847][  0]LogSlate: Took 0.009719 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.08.01-11.35.21:914][  0]LogSlate: Took 0.007347 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.08.01-11.35.22:106][  0]LogSlate: Took 0.009522 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.08.01-11.35.23:127][  0]LogRenderer: Reallocating scene render targets to support 768x468 Format 9 NumSamples 1 (Frame:1).
+[2020.08.01-11.35.25:277][  0]LogSlate: Took 0.008962 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.08.01-11.35.26:192][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.08.01-11.35.26:192][  0]LogLoad: (Engine Initialization) Total time: 149.50 seconds
+[2020.08.01-11.35.26:192][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.08.01-11.35.26:600][  0]AssetCheck: New page: Asset Save: Floor_400x400
+[2020.08.01-11.35.26:600][  0]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2020.08.01-11.35.28:090][  0]LogContentStreaming: Texture pool size now 800 MB
+[2020.08.01-11.35.28:578][  0]LogSlate: Took 0.058509 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.08.01-11.35.33:814][ 42]LogAssetRegistry: Asset discovery search completed in 146.1566 seconds
+[2020.08.01-11.35.33:864][ 42]LogCollectionManager: Fixed up redirectors for 0 collections in 0.028656 seconds (updated 0 objects)
+[2020.08.01-11.35.45:351][163]LogRenderer: Reallocating scene render targets to support 772x468 Format 9 NumSamples 1 (Frame:1159).
+[2020.08.01-11.35.45:440][166]LogRenderer: Reallocating scene render targets to support 776x468 Format 9 NumSamples 1 (Frame:1161).
+[2020.08.01-11.35.46:255][167]LogRenderer: Reallocating scene render targets to support 780x468 Format 9 NumSamples 1 (Frame:1163).
+[2020.08.01-11.35.46:369][168]LogRenderer: Reallocating scene render targets to support 916x468 Format 9 NumSamples 1 (Frame:1165).
+[2020.08.01-11.37.14:750][248]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CubeMesh)
+[2020.08.01-11.38.05:735][206]LogSlate: Took 0.032463 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.08.01-11.38.40:463][965]Cmd: EDIT COPY
+[2020.08.01-11.38.42:089][980]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CubeMesh)
+[2020.08.01-11.38.46:401][431]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CubeMesh2)
+[2020.08.01-11.39.10:981][628]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (CubeMesh)
+[2020.08.01-11.39.11:937][705]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (CubeMesh3)
+[2020.08.01-11.39.21:832][841]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CubeMesh6)
+[2020.08.01-11.39.22:285][890]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (CubeMesh5)
+[2020.08.01-11.39.22:916][960]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (CubeMesh4)
+[2020.08.01-11.39.52:270][298]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CubeMesh)
+[2020.08.01-11.39.52:880][345]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (CubeMesh2)
+[2020.08.01-11.39.53:606][418]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (CubeMesh3)
+[2020.08.01-11.39.54:337][499]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (CubeMesh6)
+[2020.08.01-11.39.54:804][549]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (CubeMesh5)
+[2020.08.01-11.39.55:316][604]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (CubeMesh4)
+[2020.08.01-11.39.56:019][680]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (CubeMesh9)
+[2020.08.01-11.39.56:507][732]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (CubeMesh8)
+[2020.08.01-11.39.57:103][796]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (CubeMesh7)
+[2020.08.01-11.40.19:257][235]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.08.01-11.40.47:927][590]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Linear_Stair_StaticMesh)
+[2020.08.01-11.40.48:477][635]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (RightArm_StaticMesh)
+[2020.08.01-11.40.49:072][701]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Bump_StaticMesh)
+[2020.08.01-11.40.49:710][772]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (LeftArm_StaticMesh)
+[2020.08.01-11.40.50:424][853]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Ramp_StaticMesh)
+[2020.08.01-11.41.00:028][972]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.08.01-11.41.20:163][805]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Linear_Stair_StaticMesh)
+[2020.08.01-11.41.35:909][ 28]MapCheck: New page: Map Check
+[2020.08.01-11.41.36:165][ 28]LightingResults: New page: Lighting Build - 1 août 2020 à 13:41:36
+[2020.08.01-11.41.36:696][ 28]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.08.01-11.41.37:358][ 28]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.08.01-11.41.37:467][ 28]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.08.01-11.41.40:133][ 28]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.08.01-11.41.40:133][ 28]LogSwarmInterface: [TryOpenConnection] Local Process ID is 12368
+[2020.08.01-11.41.54:432][ 28]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.08.01-11.41.54:432][ 28]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.08.01-11.41.54:432][ 28]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.08.01-11.41.54:432][ 28]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.08.01-11.41.54:432][ 28]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.08.01-11.41.55:546][ 28]LogEditorBuildUtils: Build time 0:19
+[2020.08.01-11.41.55:601][ 28]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2020.08.01-11.41.55:864][ 28]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2020.08.01-11.41.55:864][ 28]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2020.08.01-11.41.55:865][ 28]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2020.08.01-11.41.56:181][ 30]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer CubeMaterial, compiling. 
+[2020.08.01-11.41.56:294][ 30]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer CubeMaterial, compiling. 
+[2020.08.01-11.42.01:142][ 33]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2020.08.01-11.42.01:142][ 33]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2020.08.01-11.42.01:142][ 33]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2020.08.01-11.42.01:489][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2020.08.01-11.42.12:316][458]Job is a success!
+[2020.08.01-11.42.12:717][459]LogSlate: Took 0.000787 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.08.01-11.42.14:645][459]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.057s
+[2020.08.01-11.42.14:645][459]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.08.01-11.42.14:645][459]LogVolumetricLightmapImport:      BrickData (all levels) 0.2Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2020.08.01-11.42.14:645][459]LogVolumetricLightmapImport:      Bricks at depth
+[2020.08.01-11.42.14:645][459]LogVolumetricLightmapImport:          0: 2.3% covering 100.0% of volume
+[2020.08.01-11.42.14:645][459]LogVolumetricLightmapImport:          1: 9.1% covering 6.3% of volume
+[2020.08.01-11.42.14:646][459]LogVolumetricLightmapImport:          2: 88.6% covering 1.0% of volume
+[2020.08.01-11.42.14:646][459]LogVolumetricLightmapImport:      Bricks in each level
+[2020.08.01-11.42.14:646][459]LogVolumetricLightmapImport:          ThirdPersonExampleMap 			 44 bricks 	 100.0% (Persistent Level)
+[2020.08.01-11.42.16:198][459]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 1024X512)
+[2020.08.01-11.42.16:198][459]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2020.08.01-11.42.16:198][459]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2020.08.01-11.42.16:198][459]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 512X256)
+[2020.08.01-11.42.16:199][459]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 512X512)
+[2020.08.01-11.42.16:199][459]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 512X512)
+[2020.08.01-11.42.16:199][459]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 64X64)
+[2020.08.01-11.42.16:199][459]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 64X32)
+[2020.08.01-11.42.16:199][459]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 64X64)
+[2020.08.01-11.42.16:604][459]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 32X32)
+[2020.08.01-11.42.16:604][459]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 1024X1024)
+[2020.08.01-11.42.16:924][459]Lightmass on MSI: 11.0 sec total, 302 ms importing, 53 ms setup, 1.05 sec photons, 9.27 sec processing, 0 ms extra exporting [20/20 mappings]. Threads: 37.0 sec total, 8.58 sec processing.
+[2020.08.01-11.42.16:935][459]LogStaticLightingSystem: ThirdPersonExampleMap_BuiltData storing lightmap data for 20 meshes in 3 LightmapResourceClusters (6.7 Meshes per cluster).
+[2020.08.01-11.42.17:001][459]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2020.08.01-11.42.17:027][459]LogStaticLightingSystem: Illumination: 40.6 sec (1.32 sec encoding lightmaps, 404 ms encoding shadowmaps)
+[2020.08.01-11.42.17:029][459]LogStaticLightingSystem: Lightmap texture memory:  3.3 MB (3.3 MB streaming, 0.0 MB non-streaming), 6 textures
+[2020.08.01-11.42.17:030][459]LogStaticLightingSystem: Shadowmap texture memory: 1.3 MB (1.3 MB streaming, 0.0 MB non-streaming), 2 textures
+[2020.08.01-11.42.17:346][459]DumpUnbuiltLightIteractions
+[2020.08.01-11.42.17:346][459]Lights with unbuilt interactions: 0
+[2020.08.01-11.42.17:346][459]
+[2020.08.01-11.42.17:346][459]Primitives with unbuilt interactions: 0
+[2020.08.01-11.42.17:564][460]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.08.01-11.42.17:565][460]MapCheck: New page: ThirdPersonExampleMap - 1 août 2020 à 13:42:17
+[2020.08.01-11.42.18:170][460]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 605,457ms to complete.
+[2020.08.01-11.42.34:144][882]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.01-11.42.34:187][882]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.08.01-11.42.34:300][882]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.01-11.42.34:322][882]PIE: New page: PIE session: ThirdPersonExampleMap (1 août 2020 à 13:42:34)
+[2020.08.01-11.42.34:538][882]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.08.01-11.42.34:541][882]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.08.01-11.42.34:575][882]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.08.01-11.42.34:705][882]LogPlayLevel: PIE: StaticDuplicateObject took: (0.129091s)
+[2020.08.01-11.42.34:731][882]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.08.01-11.42.34:761][882]LogPlayLevel: PIE: World Init took: (0.055693s)
+[2020.08.01-11.42.34:761][882]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.186669s)
+[2020.08.01-11.42.34:813][882]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2020.08.01-11.42.34:822][882]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.01-11.42.34:822][882]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.01-11.42.34:822][882]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.01-11.42.34:822][882]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.01-11.42.34:822][882]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.01-11.42.34:822][882]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.01-11.42.34:823][882]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.01-11.42.34:823][882]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.01-11.42.34:823][882]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.01-11.42.34:823][882]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.01-11.42.34:858][882]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.08.01-11.42.34:858][882]LogAudioMixer: Display: Name: Speakers (2- USB PnP Sound Device)
+[2020.08.01-11.42.34:858][882]LogAudioMixer: Display: Is Default: Yes
+[2020.08.01-11.42.34:858][882]LogAudioMixer: Display: Sample Rate: 48000
+[2020.08.01-11.42.34:858][882]LogAudioMixer: Display: Channel Count Used: 2
+[2020.08.01-11.42.34:858][882]LogAudioMixer: Display: Device Channel Count: 2
+[2020.08.01-11.42.34:858][882]LogAudioMixer: Display: Channel Order:
+[2020.08.01-11.42.34:858][882]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.01-11.42.34:858][882]LogAudioMixer: Display: 1: FrontRight
+[2020.08.01-11.42.34:879][882]LogAudioMixer: Display: Using Audio Device Speakers (2- USB PnP Sound Device)
+[2020.08.01-11.42.34:911][882]LogInit: FAudioDevice initialized.
+[2020.08.01-11.42.35:056][882]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.08.01-11.42.35:199][882]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.08.01-12.42.35
+[2020.08.01-11.42.35:280][882]LogWorld: Bringing up level for play took: 0.083715
+[2020.08.01-11.42.35:287][882]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2020.08.01-11.42.35:707][882]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0009 seconds. Added 20 classes and 0 folders.
+[2020.08.01-11.42.35:784][882]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1,662
+[2020.08.01-11.42.35:784][882]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.08.01-11.42.54:592][ 55]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.08.01-11.42.54:592][ 55]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.08.01-11.42.54:603][ 55]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.08.01-11.42.54:728][ 55]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.01-11.42.54:728][ 55]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.08.01-11.42.54:792][ 55]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.08.01-11.42.54:822][ 55]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.08.01-11.42.54:863][ 55]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.01-11.42.54:945][ 55]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.01-11.42.54:946][ 55]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.08.01-11.42.54:972][ 55]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.01-11.42.55:083][ 55]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.08.01-11.42.55:110][ 55]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.01-11.42.55:217][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   5.12ms
+[2020.08.01-11.42.55:292][ 56]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2020.08.01-11.45.52:972][815]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2020.08.01-11.45.54:533][815]LogSavePackage: Moving '../../../../../Users/walid/Desktop/AI_Using_BP/Saved/ThirdPersonExampleMap_Auto1FB16C8364A65708E1C91E99B33A9A98E.tmp' to '../../../../../Users/walid/Desktop/AI_Using_BP/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2020.08.01-11.45.54:537][815]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 1.598
+[2020.08.01-11.45.54:537][815]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.598
