@@ -3161,3 +3161,62 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.08.02-16.28.59:813][618]AssetCheck: New page: Asset Save: BT_EnemeyAI
 [2020.08.02-16.28.59:813][618]LogContentValidation: Display: Validating BehaviorTree /Game/ThirdPersonBP/Blueprints/BT_Assets/BT_EnemeyAI.BT_EnemeyAI
 [2020.08.02-16.30.25:946][710]LogUObjectHash: Compacting FUObjectHashTables data took   4.73ms
+[2020.08.02-16.33.26:778][427]LogUObjectHash: Compacting FUObjectHashTables data took   4.39ms
+[2020.08.02-16.34.17:375][601]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.08.02-16.34.24:380][416]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/ThirdPersonBP/Blueprints/BT_Assets/EQS/EQS_MyTestingPawn.
+[2020.08.02-16.34.24:393][416]LogPackageName: SearchForPackageOnDisk took   0.001s, but failed to resolve /Game/ThirdPersonBP/Blueprints/BT_Assets/EQS/EQS_MyTestingPawn.
+[2020.08.02-16.34.25:740][483]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/BT_Assets/EQS/EQS_MyTestingPawn.EQS_MyTestingPawn
+[2020.08.02-16.34.45:205][196]LogEditorViewport: Clicking on Actor (LMB): AI_ThirdPersonCharacter_C (AI_ThirdPersonCharacter2)
+[2020.08.02-16.35.18:905][654]LogUObjectHash: Compacting FUObjectHashTables data took   5.85ms
+[2020.08.02-16.35.22:845][654]LogSavePackage: Moving '../../../../../Users/walid/Desktop/AI_Using_BP/Saved/ThirdPersonExampleMap_Auto68C11B2244465C1CB9001288D3572B6BD.tmp' to '../../../../../Users/walid/Desktop/AI_Using_BP/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto6.umap'
+[2020.08.02-16.35.22:852][654]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 4.022
+[2020.08.02-16.35.22:852][654]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 4.022
+[2020.08.02-16.35.22:853][654]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/BT_Assets/EQS/EQS_MyTestingPawn] ([1] browsable assets)...
+[2020.08.02-16.35.22:853][654]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/BT_Assets/EQS/EQS_MyTestingPawn]
+[2020.08.02-16.35.22:868][654]LogSavePackage: Moving '../../../../../Users/walid/Desktop/AI_Using_BP/Saved/EQS_MyTestingPawn_Auto644D518484C63EFBBA1FE77A0328004FD.tmp' to '../../../../../Users/walid/Desktop/AI_Using_BP/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/BT_Assets/EQS/EQS_MyTestingPawn_Auto6.uasset'
+[2020.08.02-16.35.22:873][654]LogFileHelpers: Auto-saving content packages took 0.021
+[2020.08.02-16.36.43:064][389]LogEQS: Warning: FEnvQuery::PrepareContext found 1 invalid vectors from context /Game/ThirdPersonBP/Blueprints/BT_Assets/EQS/Context/EQSC_Player.EQSC_Player_C
+[2020.08.02-16.38.46:048][556]BlueprintLog: New page: Compile EQSC_Player
+[2020.08.02-16.38.46:118][556]LogUObjectHash: Compacting FUObjectHashTables data took   6.79ms
+[2020.08.02-16.38.47:817][740]LogUObjectHash: Compacting FUObjectHashTables data took   6.85ms
+[2020.08.02-16.38.47:907][740]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2020.08.02-16.38.48:725][740]LogSavePackage: Moving '../../../../../Users/walid/Desktop/AI_Using_BP/Saved/ThirdPersonExampleMap09C03A8F4CB3997B02C86997E366DAF2.tmp' to '../../../../../Users/walid/Desktop/AI_Using_BP/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.08.02-16.38.49:055][740]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 1.208
+[2020.08.02-16.38.49:103][740]LogSavePackage: Moving '../../../../../Users/walid/Desktop/AI_Using_BP/Saved/EQSC_Player33B4C1064BFF85E152559096B1E2BAFF.tmp' to '../../../../../Users/walid/Desktop/AI_Using_BP/Content/ThirdPersonBP/Blueprints/BT_Assets/EQS/Context/EQSC_Player.uasset'
+[2020.08.02-16.38.49:131][740]LogSavePackage: Moving '../../../../../Users/walid/Desktop/AI_Using_BP/Saved/EQS_MyTestingPawnC755BA01470203559715B5A731FA6637.tmp' to '../../../../../Users/walid/Desktop/AI_Using_BP/Content/ThirdPersonBP/Blueprints/BT_Assets/EQS/EQS_MyTestingPawn.uasset'
+[2020.08.02-16.38.49:196][740]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/ThirdPersonBP/Blueprints/BT_Assets/EQS/EQS_MyTestingPawn.
+[2020.08.02-16.38.49:201][740]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/ThirdPersonBP/Blueprints/BT_Assets/EQS/EQS_MyTestingPawn.
+[2020.08.02-16.38.49:378][740]AssetCheck: New page: Asset Save: multiple assets
+[2020.08.02-16.38.49:378][740]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.08.02-16.38.49:378][740]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/BT_Assets/EQS/Context/EQSC_Player.EQSC_Player
+[2020.08.02-16.38.49:378][740]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/BT_Assets/EQS/EQS_MyTestingPawn.EQS_MyTestingPawn
+[2020.08.02-16.39.08:751][120]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.08.02-16.39.09:948][204]LogEditorViewport: Clicking on Actor (LMB): EQS_MyTestingPawn_C (EQS_MyTestingPawn)
+[2020.08.02-16.39.31:761][517]LogSavePackage: Moving '../../../../../Users/walid/Desktop/AI_Using_BP/Saved/EQSC_Player1EC0AAFB48153A6FB421878EF8A64D8E.tmp' to '../../../../../Users/walid/Desktop/AI_Using_BP/Content/ThirdPersonBP/Blueprints/BT_Assets/EQS/Context/EQSC_Player.uasset'
+[2020.08.02-16.39.31:782][517]AssetCheck: New page: Asset Save: EQSC_Player
+[2020.08.02-16.39.31:782][517]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/BT_Assets/EQS/Context/EQSC_Player.EQSC_Player
+[2020.08.02-16.39.44:119][642]Cmd: EDIT CUT
+[2020.08.02-16.39.44:871][642]LogEditorActor: Actor EQS_MyTestingPawn is referenced by AIController1.
+[2020.08.02-16.39.46:393][642]LogSlate: Window 'Message' being destroyed
+[2020.08.02-16.39.46:467][642]LogUObjectHash: Compacting FUObjectHashTables data took   6.38ms
+[2020.08.02-16.39.46:470][642]LogEditorActor: Deleted 0 Actors (0.120 secs)
+[2020.08.02-16.41.39:009][395]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2020.08.02-16.41.39:516][395]LogSavePackage: Moving '../../../../../Users/walid/Desktop/AI_Using_BP/Saved/ThirdPersonExampleMap286C59DD493CFB7A1649B987F3A59FA1.tmp' to '../../../../../Users/walid/Desktop/AI_Using_BP/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.08.02-16.41.40:951][395]LogSavePackage: Moving '../../../../../Users/walid/Desktop/AI_Using_BP/Saved/ThirdPersonExampleMap_BuiltData25794D3F4CDC001D79024C9551B976AB.tmp' to '../../../../../Users/walid/Desktop/AI_Using_BP/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.08.02-16.41.40:996][395]AssetCheck: New page: Asset Save: multiple assets
+[2020.08.02-16.41.40:996][395]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.08.02-16.41.40:996][395]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.08.02-16.46.36:302][390]LogUObjectHash: Compacting FUObjectHashTables data took   4.99ms
+[2020.08.02-16.46.36:395][390]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2020.08.02-16.46.36:794][390]LogSavePackage: Moving '../../../../../Users/walid/Desktop/AI_Using_BP/Saved/ThirdPersonExampleMapD5456D304532AEF536CE33B4E3C6F9D0.tmp' to '../../../../../Users/walid/Desktop/AI_Using_BP/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.08.02-16.46.36:821][390]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.484
+[2020.08.02-16.46.36:838][390]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2020.08.02-16.46.36:838][390]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.08.02-16.47.21:285][108]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.08.02-16.47.35:988][470]BlueprintLog: New page: Compile EQSC_Player
+[2020.08.02-16.47.36:057][470]LogUObjectHash: Compacting FUObjectHashTables data took   6.36ms
+[2020.08.02-16.47.37:342][603]LogUObjectHash: Compacting FUObjectHashTables data took   6.11ms
+[2020.08.02-16.47.37:391][603]LogSavePackage: Moving '../../../../../Users/walid/Desktop/AI_Using_BP/Saved/EQSC_Player556CB4924EAA0975E6BFFF8B699DBD26.tmp' to '../../../../../Users/walid/Desktop/AI_Using_BP/Content/ThirdPersonBP/Blueprints/BT_Assets/EQS/Context/EQSC_Player.uasset'
+[2020.08.02-16.47.37:410][603]AssetCheck: New page: Asset Save: EQSC_Player
+[2020.08.02-16.47.37:410][603]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/BT_Assets/EQS/Context/EQSC_Player.EQSC_Player
+[2020.08.02-16.47.38:649][724]LogUObjectHash: Compacting FUObjectHashTables data took   4.13ms
