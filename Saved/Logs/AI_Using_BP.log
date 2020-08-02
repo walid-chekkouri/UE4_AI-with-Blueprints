@@ -3065,3 +3065,99 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.08.02-15.14.14:040][458]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/ThirdPersonBP/Blueprints/BT_Assets/BT_EnemeyAI.BT_EnemeyAI
 [2020.08.02-15.14.43:267][885]LogUObjectHash: Compacting FUObjectHashTables data took   5.26ms
 [2020.08.02-15.16.16:362][596]LogUObjectHash: Compacting FUObjectHashTables data took   4.62ms
+[2020.08.02-15.17.55:656][811]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/BT_Assets/Services/BTS_Hunger.BTS_Hunger
+[2020.08.02-15.28.08:346][778]LogHttp: Warning: 000001A135C539C0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1C39654D-4A78-3A4A-EEED-0A88F1B33A73%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=54ae870d4e392be4e1716b998cfa6e80%7C23a2111a7e15405cba168622ce0f5987%7Cc2127f3c-1dda-4300-b816-f49ab9038d6f&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.08.02-15.28.08:346][778]LogHttp: Warning: 000001A135C539C0: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2020.08.02-15.28.08:346][778]LogHttp: Warning: 000001A135C539C0: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1a027407f70 [can pipeline])
+[2020.08.02-15.28.08:346][778]LogHttp: Warning: 000001A135C539C0: libcurl info message cache 1 (Re-using existing connection! (#119) with host datarouter.ol.epicgames.com)
+[2020.08.02-15.28.08:346][778]LogHttp: Warning: 000001A135C539C0: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.85.60.94) port 443 (#119))
+[2020.08.02-15.28.08:346][778]LogHttp: Warning: 000001A135C539C0: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.08.02-15.28.08:346][778]LogHttp: Warning: 000001A135C539C0: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2020.08.02-15.28.08:346][778]LogHttp: Warning: 000001A135C539C0: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.08.02-15.28.08:347][778]LogHttp: Warning: 000001A135C539C0: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.08.02-15.28.08:347][778]LogHttp: Warning: 000001A135C539C0: libcurl info message cache 7 (Closing connection 119)
+[2020.08.02-15.28.08:347][778]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1C39654D-4A78-3A4A-EEED-0A88F1B33A73%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=54ae870d4e392be4e1716b998cfa6e80%7C23a2111a7e15405cba168622ce0f5987%7Cc2127f3c-1dda-4300-b816-f49ab9038d6f&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.08.02-15.30.08:385][678]LogHttp: Warning: 000001A135C539C0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1C39654D-4A78-3A4A-EEED-0A88F1B33A73%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=54ae870d4e392be4e1716b998cfa6e80%7C23a2111a7e15405cba168622ce0f5987%7Cc2127f3c-1dda-4300-b816-f49ab9038d6f&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.08.02-15.30.08:385][678]LogHttp: Warning: 000001A135C539C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.08.02-15.30.08:385][678]LogHttp: Warning: 000001A135C539C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.08.02-15.30.08:385][678]LogHttp: Warning: 000001A135C539C0: libcurl info message cache 1 (Closing connection 120)
+[2020.08.02-15.30.08:385][678]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1C39654D-4A78-3A4A-EEED-0A88F1B33A73%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=54ae870d4e392be4e1716b998cfa6e80%7C23a2111a7e15405cba168622ce0f5987%7Cc2127f3c-1dda-4300-b816-f49ab9038d6f&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.08.02-15.32.08:428][279]LogHttp: Warning: 000001A135C539C0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1C39654D-4A78-3A4A-EEED-0A88F1B33A73%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=54ae870d4e392be4e1716b998cfa6e80%7C23a2111a7e15405cba168622ce0f5987%7Cc2127f3c-1dda-4300-b816-f49ab9038d6f&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.08.02-15.32.08:428][279]LogHttp: Warning: 000001A135C539C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.08.02-15.32.08:428][279]LogHttp: Warning: 000001A135C539C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.08.02-15.32.08:429][279]LogHttp: Warning: 000001A135C539C0: libcurl info message cache 1 (Closing connection 121)
+[2020.08.02-15.32.08:439][280]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1C39654D-4A78-3A4A-EEED-0A88F1B33A73%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=54ae870d4e392be4e1716b998cfa6e80%7C23a2111a7e15405cba168622ce0f5987%7Cc2127f3c-1dda-4300-b816-f49ab9038d6f&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.08.02-15.34.08:463][933]LogHttp: Warning: 000001A135C539C0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1C39654D-4A78-3A4A-EEED-0A88F1B33A73%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=54ae870d4e392be4e1716b998cfa6e80%7C23a2111a7e15405cba168622ce0f5987%7Cc2127f3c-1dda-4300-b816-f49ab9038d6f&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.08.02-15.34.08:463][933]LogHttp: Warning: 000001A135C539C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.08.02-15.34.08:463][933]LogHttp: Warning: 000001A135C539C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.08.02-15.34.08:463][933]LogHttp: Warning: 000001A135C539C0: libcurl info message cache 1 (Closing connection 122)
+[2020.08.02-15.34.08:472][934]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1C39654D-4A78-3A4A-EEED-0A88F1B33A73%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=54ae870d4e392be4e1716b998cfa6e80%7C23a2111a7e15405cba168622ce0f5987%7Cc2127f3c-1dda-4300-b816-f49ab9038d6f&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.08.02-15.36.08:928][366]LogHttp: Warning: 000001A135C539C0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1C39654D-4A78-3A4A-EEED-0A88F1B33A73%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=54ae870d4e392be4e1716b998cfa6e80%7C23a2111a7e15405cba168622ce0f5987%7Cc2127f3c-1dda-4300-b816-f49ab9038d6f&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.08.02-15.36.08:928][366]LogHttp: Warning: 000001A135C539C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.08.02-15.36.08:928][366]LogHttp: Warning: 000001A135C539C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.08.02-15.36.08:929][366]LogHttp: Warning: 000001A135C539C0: libcurl info message cache 1 (Closing connection 123)
+[2020.08.02-15.36.08:929][366]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1C39654D-4A78-3A4A-EEED-0A88F1B33A73%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=54ae870d4e392be4e1716b998cfa6e80%7C23a2111a7e15405cba168622ce0f5987%7Cc2127f3c-1dda-4300-b816-f49ab9038d6f&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.08.02-16.13.01:362][271]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2020.08.02-16.13.11:365][271]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.08.02-16.13.23:579][170]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/ThirdPersonBP/Blueprints/NewBlueprint.
+[2020.08.02-16.13.23:589][170]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/ThirdPersonBP/Blueprints/NewBlueprint.
+[2020.08.02-16.13.30:813][842]LogUObjectHash: Compacting FUObjectHashTables data took  35.17ms
+[2020.08.02-16.13.30:853][842]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/EQSC_Player.SKEL_EQSC_Player_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/NewBlueprint.PackageMetaData'
+[2020.08.02-16.13.30:853][842]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/EQSC_Player.EQSC_Player_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/NewBlueprint.PackageMetaData'
+[2020.08.02-16.13.30:894][842]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/EQSC_Player" FILE="../../../../../Users/walid/Desktop/AI_Using_BP/Content/ThirdPersonBP/Blueprints/EQSC_Player.uasset" SILENT=true
+[2020.08.02-16.13.30:899][842]LogSavePackage: Moving '../../../../../Users/walid/Desktop/AI_Using_BP/Saved/EQSC_Player923B343D4D126EBC271281A4837076E9.tmp' to '../../../../../Users/walid/Desktop/AI_Using_BP/Content/ThirdPersonBP/Blueprints/EQSC_Player.uasset'
+[2020.08.02-16.13.31:280][842]LogUObjectHash: Compacting FUObjectHashTables data took   5.06ms
+[2020.08.02-16.13.31:340][842]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2020.08.02-16.13.31:391][842]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2020.08.02-16.13.31:591][842]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/ThirdPersonBP/Blueprints/EQSC_Player.
+[2020.08.02-16.13.31:610][842]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/ThirdPersonBP/Blueprints/EQSC_Player.
+[2020.08.02-16.13.31:646][842]AssetCheck: New page: Asset Save: EQSC_Player
+[2020.08.02-16.13.31:646][842]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/EQSC_Player.EQSC_Player
+[2020.08.02-16.15.01:897][629]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/BT_Assets/EQS/Context/EQSC_Player.EQSC_Player_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/EQSC_Player.PackageMetaData'
+[2020.08.02-16.15.01:897][629]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/BT_Assets/EQS/Context/EQSC_Player.SKEL_EQSC_Player_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/EQSC_Player.PackageMetaData'
+[2020.08.02-16.15.01:956][629]LogSavePackage: Moving '../../../../../Users/walid/Desktop/AI_Using_BP/Saved/EQSC_PlayerFAC2A31141098F871A5A01BFC698DA2E.tmp' to '../../../../../Users/walid/Desktop/AI_Using_BP/Content/ThirdPersonBP/Blueprints/BT_Assets/EQS/Context/EQSC_Player.uasset'
+[2020.08.02-16.15.02:267][629]LogUObjectHash: Compacting FUObjectHashTables data took   5.71ms
+[2020.08.02-16.15.02:331][629]LogUObjectHash: Compacting FUObjectHashTables data took   4.36ms
+[2020.08.02-16.15.02:381][629]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2020.08.02-16.15.02:436][629]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/ThirdPersonBP/Blueprints/BT_Assets/EQS/Context/EQSC_Player.
+[2020.08.02-16.15.02:441][629]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/ThirdPersonBP/Blueprints/BT_Assets/EQS/Context/EQSC_Player.
+[2020.08.02-16.15.02:457][629]AssetCheck: New page: Asset Save: EQSC_Player
+[2020.08.02-16.15.02:457][629]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/BT_Assets/EQS/Context/EQSC_Player.EQSC_Player
+[2020.08.02-16.15.41:168][960]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/BT_Assets/EQS/Context/EQSC_Player.EQSC_Player
+[2020.08.02-16.17.41:384][808]BlueprintLog: New page: Compile EQSC_Player
+[2020.08.02-16.17.41:473][808]LogUObjectHash: Compacting FUObjectHashTables data took   8.66ms
+[2020.08.02-16.18.02:833][ 56]LogSavePackage: Moving '../../../../../Users/walid/Desktop/AI_Using_BP/Saved/EQSC_PlayerAE3817A14722B395C9BB8D8AF122BECF.tmp' to '../../../../../Users/walid/Desktop/AI_Using_BP/Content/ThirdPersonBP/Blueprints/BT_Assets/EQS/Context/EQSC_Player.uasset'
+[2020.08.02-16.18.02:914][ 56]AssetCheck: New page: Asset Save: EQSC_Player
+[2020.08.02-16.18.02:914][ 56]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/BT_Assets/EQS/Context/EQSC_Player.EQSC_Player
+[2020.08.02-16.18.23:805][193]LogUObjectHash: Compacting FUObjectHashTables data took   6.82ms
+[2020.08.02-16.18.26:036][193]LogSlate: Window 'Delete Assets' being destroyed
+[2020.08.02-16.18.26:270][193]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2020.08.02-16.18.26:334][193]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2020.08.02-16.18.26:388][193]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2020.08.02-16.18.52:729][628]LogSavePackage: Moving '../../../../../Users/walid/Desktop/AI_Using_BP/Saved/EQS_HideNearPlayer35A084F44F2C1714CFCF819C2BA24991.tmp' to '../../../../../Users/walid/Desktop/AI_Using_BP/Content/ThirdPersonBP/Blueprints/BT_Assets/EQS/EQS_HideNearPlayer.uasset'
+[2020.08.02-16.18.53:069][628]LogUObjectHash: Compacting FUObjectHashTables data took   4.45ms
+[2020.08.02-16.18.53:133][628]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2020.08.02-16.18.53:186][628]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2020.08.02-16.18.53:353][628]AssetCheck: New page: Asset Save: EQS_HideNearPlayer
+[2020.08.02-16.18.53:353][628]LogContentValidation: Display: Validating EnvQuery /Game/ThirdPersonBP/Blueprints/BT_Assets/EQS/EQS_HideNearPlayer.EQS_HideNearPlayer
+[2020.08.02-16.19.03:338][498]LogAssetEditorSubsystem: Opening Asset editor for EnvQuery /Game/ThirdPersonBP/Blueprints/BT_Assets/EQS/EQS_HideNearPlayer.EQS_HideNearPlayer
+[2020.08.02-16.20.09:790][169]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.08.02-16.23.54:265][375]LogUObjectHash: Compacting FUObjectHashTables data took   5.41ms
+[2020.08.02-16.23.54:305][375]LogSavePackage: Moving '../../../../../Users/walid/Desktop/AI_Using_BP/Saved/EQS_HideNearPlayer4EEDBB394F3802A1CA7D32A1EDB72F50.tmp' to '../../../../../Users/walid/Desktop/AI_Using_BP/Content/ThirdPersonBP/Blueprints/BT_Assets/EQS/EQS_HideNearPlayer.uasset'
+[2020.08.02-16.23.54:325][375]AssetCheck: New page: Asset Save: EQS_HideNearPlayer
+[2020.08.02-16.23.54:325][375]LogContentValidation: Display: Validating EnvQuery /Game/ThirdPersonBP/Blueprints/BT_Assets/EQS/EQS_HideNearPlayer.EQS_HideNearPlayer
+[2020.08.02-16.24.58:512][299]LogUObjectHash: Compacting FUObjectHashTables data took   4.87ms
+[2020.08.02-16.24.58:512][299]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.070
+[2020.08.02-16.24.58:566][299]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/BT_Assets/EQS/EQS_HideNearPlayer] ([1] browsable assets)...
+[2020.08.02-16.24.58:566][299]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/BT_Assets/EQS/EQS_HideNearPlayer]
+[2020.08.02-16.24.58:625][299]LogSavePackage: Moving '../../../../../Users/walid/Desktop/AI_Using_BP/Saved/EQS_HideNearPlayer_Auto532A573634ED13575A40F6689A025C8D9.tmp' to '../../../../../Users/walid/Desktop/AI_Using_BP/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/BT_Assets/EQS/EQS_HideNearPlayer_Auto5.uasset'
+[2020.08.02-16.24.58:635][299]LogFileHelpers: Auto-saving content packages took 0.120
+[2020.08.02-16.25.24:357][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2020.08.02-16.25.24:427][ 91]LogSavePackage: Moving '../../../../../Users/walid/Desktop/AI_Using_BP/Saved/EQS_HideNearPlayerD9E893574303FD562A304E8819C49449.tmp' to '../../../../../Users/walid/Desktop/AI_Using_BP/Content/ThirdPersonBP/Blueprints/BT_Assets/EQS/EQS_HideNearPlayer.uasset'
+[2020.08.02-16.25.24:447][ 91]AssetCheck: New page: Asset Save: EQS_HideNearPlayer
+[2020.08.02-16.25.24:447][ 91]LogContentValidation: Display: Validating EnvQuery /Game/ThirdPersonBP/Blueprints/BT_Assets/EQS/EQS_HideNearPlayer.EQS_HideNearPlayer
+[2020.08.02-16.28.59:731][618]LogUObjectHash: Compacting FUObjectHashTables data took   4.85ms
+[2020.08.02-16.28.59:795][618]LogSavePackage: Moving '../../../../../Users/walid/Desktop/AI_Using_BP/Saved/BT_EnemeyAI8D79971043E244565A2589844782B115.tmp' to '../../../../../Users/walid/Desktop/AI_Using_BP/Content/ThirdPersonBP/Blueprints/BT_Assets/BT_EnemeyAI.uasset'
+[2020.08.02-16.28.59:813][618]AssetCheck: New page: Asset Save: BT_EnemeyAI
+[2020.08.02-16.28.59:813][618]LogContentValidation: Display: Validating BehaviorTree /Game/ThirdPersonBP/Blueprints/BT_Assets/BT_EnemeyAI.BT_EnemeyAI
+[2020.08.02-16.30.25:946][710]LogUObjectHash: Compacting FUObjectHashTables data took   4.73ms
