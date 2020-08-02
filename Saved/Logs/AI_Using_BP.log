@@ -1636,3 +1636,294 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.08.02-11.10.22:264][280]LogSavePackage: Moving '../../../../../Users/walid/Desktop/AI_Using_BP/Saved/AI_ThirdPersonCharacterECA8AB3047E8F874111352BE1DE537B2.tmp' to '../../../../../Users/walid/Desktop/AI_Using_BP/Content/ThirdPersonBP/Blueprints/AI_ThirdPersonCharacter.uasset'
 [2020.08.02-11.10.22:283][280]AssetCheck: New page: Asset Save: AI_ThirdPersonCharacter
 [2020.08.02-11.10.22:283][280]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/AI_ThirdPersonCharacter.AI_ThirdPersonCharacter
+[2020.08.02-11.11.24:287][220]LogUObjectHash: Compacting FUObjectHashTables data took   5.57ms
+[2020.08.02-11.11.24:591][220]LogSavePackage: Moving '../../../../../Users/walid/Desktop/AI_Using_BP/Saved/ThirdPersonExampleMap_Auto4E62DAE094E448152E8110C80F29A3A97.tmp' to '../../../../../Users/walid/Desktop/AI_Using_BP/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto4.umap'
+[2020.08.02-11.11.24:595][220]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.356
+[2020.08.02-11.11.24:595][220]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.356
+[2020.08.02-11.52.34:661][720]LogHttp: Warning: 000001A0D72820C0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1C39654D-4A78-3A4A-EEED-0A88F1B33A73%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=54ae870d4e392be4e1716b998cfa6e80%7C23a2111a7e15405cba168622ce0f5987%7Cc2127f3c-1dda-4300-b816-f49ab9038d6f&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.08.02-11.52.34:661][720]LogHttp: Warning: 000001A0D72820C0: request failed, libcurl error: 0 (No error)
+[2020.08.02-11.52.34:661][720]LogHttp: Warning: 000001A0D72820C0: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1a027407f70 [can pipeline])
+[2020.08.02-11.52.34:661][720]LogHttp: Warning: 000001A0D72820C0: libcurl info message cache 1 (Re-using existing connection! (#39) with host datarouter.ol.epicgames.com)
+[2020.08.02-11.52.34:661][720]LogHttp: Warning: 000001A0D72820C0: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.194.221.162) port 443 (#39))
+[2020.08.02-11.52.34:661][720]LogHttp: Warning: 000001A0D72820C0: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.08.02-11.52.34:661][720]LogHttp: Warning: 000001A0D72820C0: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2020.08.02-11.52.34:661][720]LogHttp: Warning: 000001A0D72820C0: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.08.02-11.52.34:662][720]LogHttp: Warning: 000001A0D72820C0: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.08.02-11.52.34:662][720]LogHttp: Warning: 000001A0D72820C0: libcurl info message cache 7 (Closing connection 39)
+[2020.08.02-11.52.34:662][720]LogHttp: Warning: 000001A0D72820C0: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2020.08.02-11.52.34:662][720]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1C39654D-4A78-3A4A-EEED-0A88F1B33A73%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=54ae870d4e392be4e1716b998cfa6e80%7C23a2111a7e15405cba168622ce0f5987%7Cc2127f3c-1dda-4300-b816-f49ab9038d6f&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.08.02-12.15.00:563][139]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/ThirdPersonBP/Blueprints/BT_Assets/BT_EnemeyAI.BT_EnemeyAI
+[2020.08.02-12.15.03:890][483]LogSlate: Window 'BT_EnemeyAI' being destroyed
+[2020.08.02-12.15.31:091][562]LogUObjectHash: Compacting FUObjectHashTables data took  11.62ms
+[2020.08.02-12.15.31:096][562]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.139
+[2020.08.02-12.15.31:097][562]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/BT_Assets/BT_EnemeyAI] ([1] browsable assets)...
+[2020.08.02-12.15.31:097][562]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/BT_Assets/BT_EnemeyAI]
+[2020.08.02-12.15.31:101][562]LogSavePackage: Moving '../../../../../Users/walid/Desktop/AI_Using_BP/Saved/BT_EnemeyAI_Auto52E552B99428F9FAC7E784E90BC94796D.tmp' to '../../../../../Users/walid/Desktop/AI_Using_BP/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/BT_Assets/BT_EnemeyAI_Auto5.uasset'
+[2020.08.02-12.15.31:103][562]LogFileHelpers: Auto-saving content packages took 0.007
+[2020.08.02-12.15.55:095][307]LogAssetEditorSubsystem: Opening Asset editor for BlackboardData /Game/ThirdPersonBP/Blueprints/BT_Assets/BB_EnemyAI.BB_EnemyAI
+[2020.08.02-12.17.02:060][212]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/AIC_ThirdPersonCharacter.AIC_ThirdPersonCharacter
+[2020.08.02-12.17.03:704][350]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.08.02-12.17.03:704][350]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.02-12.17.03:775][350]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/AIC_ThirdPersonCharacter.AIC_ThirdPersonCharacter
+[2020.08.02-12.17.47:022][178]BlueprintLog: New page: Compile AIC_ThirdPersonCharacter
+[2020.08.02-12.17.47:416][178]LogUObjectHash: Compacting FUObjectHashTables data took   5.97ms
+[2020.08.02-12.19.51:918][303]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.08.02-12.20.31:579][890]LogAssetEditorSubsystem: Opening Asset editor for BlackboardData /Game/ThirdPersonBP/Blueprints/BT_Assets/BB_EnemyAI.BB_EnemyAI
+[2020.08.02-12.20.34:432][214]LogSavePackage: Moving '../../../../../Users/walid/Desktop/AI_Using_BP/Saved/BB_EnemyAI751246864DA5BA9C63838299E158D9E9.tmp' to '../../../../../Users/walid/Desktop/AI_Using_BP/Content/ThirdPersonBP/Blueprints/BT_Assets/BB_EnemyAI.uasset'
+[2020.08.02-12.20.34:456][214]AssetCheck: New page: Asset Save: BB_EnemyAI
+[2020.08.02-12.20.34:456][214]LogContentValidation: Display: Validating BlackboardData /Game/ThirdPersonBP/Blueprints/BT_Assets/BB_EnemyAI.BB_EnemyAI
+[2020.08.02-12.20.38:264][643]LogSavePackage: Moving '../../../../../Users/walid/Desktop/AI_Using_BP/Saved/BT_EnemeyAI82FFFD954CF091BEB45F8C80AD6D2D49.tmp' to '../../../../../Users/walid/Desktop/AI_Using_BP/Content/ThirdPersonBP/Blueprints/BT_Assets/BT_EnemeyAI.uasset'
+[2020.08.02-12.20.38:287][643]AssetCheck: New page: Asset Save: BT_EnemeyAI
+[2020.08.02-12.20.38:288][643]LogContentValidation: Display: Validating BehaviorTree /Game/ThirdPersonBP/Blueprints/BT_Assets/BT_EnemeyAI.BT_EnemeyAI
+[2020.08.02-12.22.19:793][671]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/BT_Assets/BTTask_BlueprintBase_New.BTTask_BlueprintBase_New
+[2020.08.02-12.22.20:210][671]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/ThirdPersonBP/Blueprints/BT_Assets/BTTask_BlueprintBase_New.
+[2020.08.02-12.23.07:489][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   4.92ms
+[2020.08.02-12.23.07:516][ 94]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/BT_Assets/BTT_FindNavigableLocation.SKEL_BTT_FindNavigableLocation_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/BT_Assets/BTTask_BlueprintBase_New.PackageMetaData'
+[2020.08.02-12.23.07:517][ 94]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/BT_Assets/BTT_FindNavigableLocation.BTT_FindNavigableLocation_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/BT_Assets/BTTask_BlueprintBase_New.PackageMetaData'
+[2020.08.02-12.23.07:579][ 94]LogSavePackage: Moving '../../../../../Users/walid/Desktop/AI_Using_BP/Saved/BTT_FindNavigableLocation83F503434815168DB3823E9904E483C3.tmp' to '../../../../../Users/walid/Desktop/AI_Using_BP/Content/ThirdPersonBP/Blueprints/BT_Assets/BTT_FindNavigableLocation.uasset'
+[2020.08.02-12.23.07:861][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2020.08.02-12.23.07:918][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2020.08.02-12.23.07:963][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2020.08.02-12.23.08:013][ 94]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/ThirdPersonBP/Blueprints/BT_Assets/BTT_FindNavigableLocation.
+[2020.08.02-12.23.08:027][ 94]AssetCheck: New page: Asset Save: BTT_FindNavigableLocation
+[2020.08.02-12.23.08:027][ 94]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/BT_Assets/BTT_FindNavigableLocation.BTT_FindNavigableLocation
+[2020.08.02-12.23.11:325][450]LogSavePackage: Moving '../../../../../Users/walid/Desktop/AI_Using_BP/Saved/BTT_FindNavigableLocation5F39F8A44D35BEF3A72F8E9B6C870761.tmp' to '../../../../../Users/walid/Desktop/AI_Using_BP/Content/ThirdPersonBP/Blueprints/BT_Assets/BTT_FindNavigableLocation.uasset'
+[2020.08.02-12.23.11:341][450]AssetCheck: New page: Asset Save: BTT_FindNavigableLocation
+[2020.08.02-12.23.11:341][450]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/BT_Assets/BTT_FindNavigableLocation.BTT_FindNavigableLocation
+[2020.08.02-12.23.45:236][345]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/BT_Assets/Tasks/BTT_FindNavigableLocation.BTT_FindNavigableLocation_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/BT_Assets/BTT_FindNavigableLocation.PackageMetaData'
+[2020.08.02-12.23.45:236][345]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/BT_Assets/Tasks/BTT_FindNavigableLocation.SKEL_BTT_FindNavigableLocation_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/BT_Assets/BTT_FindNavigableLocation.PackageMetaData'
+[2020.08.02-12.23.45:275][345]LogSavePackage: Moving '../../../../../Users/walid/Desktop/AI_Using_BP/Saved/BTT_FindNavigableLocation058A5F6F49409EBDCEDB74B6356623A3.tmp' to '../../../../../Users/walid/Desktop/AI_Using_BP/Content/ThirdPersonBP/Blueprints/BT_Assets/Tasks/BTT_FindNavigableLocation.uasset'
+[2020.08.02-12.23.45:550][345]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2020.08.02-12.23.45:605][345]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2020.08.02-12.23.45:651][345]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2020.08.02-12.23.45:706][345]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/ThirdPersonBP/Blueprints/BT_Assets/Tasks/BTT_FindNavigableLocation.
+[2020.08.02-12.23.45:719][345]AssetCheck: New page: Asset Save: BTT_FindNavigableLocation
+[2020.08.02-12.23.45:719][345]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/BT_Assets/Tasks/BTT_FindNavigableLocation.BTT_FindNavigableLocation
+[2020.08.02-12.24.21:084][367]BlueprintLog: New page: Compile BTT_FindNavigableLocation
+[2020.08.02-12.24.21:136][367]LogUObjectHash: Compacting FUObjectHashTables data took   5.01ms
+[2020.08.02-12.25.30:481][403]BlueprintLog: New page: Compile BTT_FindNavigableLocation
+[2020.08.02-12.25.30:536][403]LogUObjectHash: Compacting FUObjectHashTables data took   5.13ms
+[2020.08.02-12.26.23:790][364]BlueprintLog: New page: Compile BTT_FindNavigableLocation
+[2020.08.02-12.26.23:845][364]LogUObjectHash: Compacting FUObjectHashTables data took   5.43ms
+[2020.08.02-12.26.50:284][980]BlueprintLog: New page: Compile BTT_FindNavigableLocation
+[2020.08.02-12.26.50:334][980]LogUObjectHash: Compacting FUObjectHashTables data took   5.20ms
+[2020.08.02-12.26.50:897][ 33]LogSavePackage: Moving '../../../../../Users/walid/Desktop/AI_Using_BP/Saved/BTT_FindNavigableLocationF40A57694B58F8FE580EE3AC2D76A24F.tmp' to '../../../../../Users/walid/Desktop/AI_Using_BP/Content/ThirdPersonBP/Blueprints/BT_Assets/Tasks/BTT_FindNavigableLocation.uasset'
+[2020.08.02-12.26.50:928][ 33]AssetCheck: New page: Asset Save: BTT_FindNavigableLocation
+[2020.08.02-12.26.50:928][ 33]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/BT_Assets/Tasks/BTT_FindNavigableLocation.BTT_FindNavigableLocation
+[2020.08.02-12.26.52:334][179]LogUObjectHash: Compacting FUObjectHashTables data took   4.77ms
+[2020.08.02-12.26.52:655][179]LogSavePackage: Moving '../../../../../Users/walid/Desktop/AI_Using_BP/Saved/ThirdPersonExampleMap_Auto610D8F771403D4E654289828DB2DD933F.tmp' to '../../../../../Users/walid/Desktop/AI_Using_BP/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto6.umap'
+[2020.08.02-12.26.52:659][179]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.375
+[2020.08.02-12.26.52:659][179]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.375
+[2020.08.02-12.26.52:660][179]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/AIC_ThirdPersonCharacter] ([1] browsable assets)...
+[2020.08.02-12.26.52:660][179]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/AIC_ThirdPersonCharacter]
+[2020.08.02-12.26.52:692][179]LogSavePackage: Moving '../../../../../Users/walid/Desktop/AI_Using_BP/Saved/AIC_ThirdPersonCharacter_Auto65095D9FB42B98B307CCFB796559914FD.tmp' to '../../../../../Users/walid/Desktop/AI_Using_BP/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/AIC_ThirdPersonCharacter_Auto6.uasset'
+[2020.08.02-12.26.52:695][179]LogFileHelpers: Auto-saving content packages took 0.035
+[2020.08.02-12.27.09:839][958]LogSavePackage: Moving '../../../../../Users/walid/Desktop/AI_Using_BP/Saved/BTT_FindNavigableLocation9DB24A0545538F1C12E1DD95E6B5EF69.tmp' to '../../../../../Users/walid/Desktop/AI_Using_BP/Content/ThirdPersonBP/Blueprints/BT_Assets/Tasks/BTT_FindNavigableLocation.uasset'
+[2020.08.02-12.27.09:859][958]AssetCheck: New page: Asset Save: BTT_FindNavigableLocation
+[2020.08.02-12.27.09:859][958]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/BT_Assets/Tasks/BTT_FindNavigableLocation.BTT_FindNavigableLocation
+[2020.08.02-12.29.07:475][ 90]BlueprintLog: New page: Compile BTT_FindNavigableLocation
+[2020.08.02-12.29.07:532][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   5.07ms
+[2020.08.02-12.29.08:088][149]LogSavePackage: Moving '../../../../../Users/walid/Desktop/AI_Using_BP/Saved/BTT_FindNavigableLocationEFE0D6DE43F9ABE470BD08AF957354BF.tmp' to '../../../../../Users/walid/Desktop/AI_Using_BP/Content/ThirdPersonBP/Blueprints/BT_Assets/Tasks/BTT_FindNavigableLocation.uasset'
+[2020.08.02-12.29.08:119][149]AssetCheck: New page: Asset Save: BTT_FindNavigableLocation
+[2020.08.02-12.29.08:119][149]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/BT_Assets/Tasks/BTT_FindNavigableLocation.BTT_FindNavigableLocation
+[2020.08.02-12.34.56:060][232]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.08.02-12.36.19:171][ 78]LogSavePackage: Moving '../../../../../Users/walid/Desktop/AI_Using_BP/Saved/BT_EnemeyAI87748FFD4979EF16715CCEBCCDDFC0B0.tmp' to '../../../../../Users/walid/Desktop/AI_Using_BP/Content/ThirdPersonBP/Blueprints/BT_Assets/BT_EnemeyAI.uasset'
+[2020.08.02-12.36.19:203][ 78]AssetCheck: New page: Asset Save: BT_EnemeyAI
+[2020.08.02-12.36.19:203][ 78]LogContentValidation: Display: Validating BehaviorTree /Game/ThirdPersonBP/Blueprints/BT_Assets/BT_EnemeyAI.BT_EnemeyAI
+[2020.08.02-12.37.18:900][389]LogUObjectHash: Compacting FUObjectHashTables data took   5.84ms
+[2020.08.02-12.37.19:219][389]LogSavePackage: Moving '../../../../../Users/walid/Desktop/AI_Using_BP/Saved/ThirdPersonExampleMap_Auto757559C1F43EC13C267C06AAD446B5B1F.tmp' to '../../../../../Users/walid/Desktop/AI_Using_BP/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto7.umap'
+[2020.08.02-12.37.19:223][389]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.399
+[2020.08.02-12.37.19:223][389]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.399
+[2020.08.02-12.37.19:223][389]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/AI_ThirdPersonCharacter] ([1] browsable assets)...
+[2020.08.02-12.37.19:261][389]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/AI_ThirdPersonCharacter.AI_ThirdPersonCharacter]
+[2020.08.02-12.37.19:261][389]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/AI_ThirdPersonCharacter]
+[2020.08.02-12.37.19:304][389]LogSavePackage: Moving '../../../../../Users/walid/Desktop/AI_Using_BP/Saved/AI_ThirdPersonCharacter_Auto7F4AD2B3F4C1F5BD4146D7C83843ACCE0.tmp' to '../../../../../Users/walid/Desktop/AI_Using_BP/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/AI_ThirdPersonCharacter_Auto7.uasset'
+[2020.08.02-12.37.19:308][389]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/BT_Assets/BB_EnemyAI] ([1] browsable assets)...
+[2020.08.02-12.37.19:308][389]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/BT_Assets/BB_EnemyAI]
+[2020.08.02-12.37.19:318][389]LogSavePackage: Moving '../../../../../Users/walid/Desktop/AI_Using_BP/Saved/BB_EnemyAI_Auto7F788F8D4488F0CF9E1B96C9EAFF7E1C1.tmp' to '../../../../../Users/walid/Desktop/AI_Using_BP/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/BT_Assets/BB_EnemyAI_Auto7.uasset'
+[2020.08.02-12.37.19:321][389]LogFileHelpers: Auto-saving content packages took 0.098
+[2020.08.02-12.37.57:030][464]LogSlate: Took 0.008431 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.08.02-12.39.06:891][867]BlueprintLog: New page: Compile AI_ThirdPersonCharacter
+[2020.08.02-12.39.06:895][867]LogBlueprint: Error: [Compiler AI_ThirdPersonCharacter] The current value (None) of the ' Key Name ' pin is invalid: 'Key Name' in action 'Set Value as Object' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2020.08.02-12.39.07:217][867]LogUObjectHash: Compacting FUObjectHashTables data took   5.76ms
+[2020.08.02-12.39.38:557][252]BlueprintLog: New page: Compile AI_ThirdPersonCharacter
+[2020.08.02-12.39.38:886][252]LogUObjectHash: Compacting FUObjectHashTables data took   5.85ms
+[2020.08.02-12.39.44:472][882]BlueprintLog: New page: Compile AI_ThirdPersonCharacter
+[2020.08.02-12.39.44:798][882]LogUObjectHash: Compacting FUObjectHashTables data took   5.57ms
+[2020.08.02-12.40.51:651][382]BlueprintLog: New page: Compile AI_ThirdPersonCharacter
+[2020.08.02-12.40.51:981][382]LogUObjectHash: Compacting FUObjectHashTables data took   5.60ms
+[2020.08.02-12.40.58:207][101]BlueprintLog: New page: Compile AI_ThirdPersonCharacter
+[2020.08.02-12.40.58:525][101]LogUObjectHash: Compacting FUObjectHashTables data took   5.33ms
+[2020.08.02-12.41.39:362][233]BlueprintLog: New page: Compile AI_ThirdPersonCharacter
+[2020.08.02-12.41.39:695][233]LogUObjectHash: Compacting FUObjectHashTables data took   5.56ms
+[2020.08.02-12.41.40:084][259]LogSavePackage: Moving '../../../../../Users/walid/Desktop/AI_Using_BP/Saved/AI_ThirdPersonCharacterF9098F5D46899C216010A8AF19DB1947.tmp' to '../../../../../Users/walid/Desktop/AI_Using_BP/Content/ThirdPersonBP/Blueprints/AI_ThirdPersonCharacter.uasset'
+[2020.08.02-12.41.40:114][259]AssetCheck: New page: Asset Save: AI_ThirdPersonCharacter
+[2020.08.02-12.41.40:114][259]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/AI_ThirdPersonCharacter.AI_ThirdPersonCharacter
+[2020.08.02-12.43.13:076][528]BlueprintLog: New page: Compile AIC_ThirdPersonCharacter
+[2020.08.02-12.43.13:387][528]LogUObjectHash: Compacting FUObjectHashTables data took   5.91ms
+[2020.08.02-12.43.30:596][528]BlueprintLog: New page: Compile AI_ThirdPersonCharacter
+[2020.08.02-12.43.30:925][528]LogUObjectHash: Compacting FUObjectHashTables data took   5.50ms
+[2020.08.02-12.43.41:350][721]BlueprintLog: New page: Compile AIC_ThirdPersonCharacter
+[2020.08.02-12.43.41:656][721]LogUObjectHash: Compacting FUObjectHashTables data took   5.35ms
+[2020.08.02-12.43.50:694][686]LogUObjectHash: Compacting FUObjectHashTables data took   4.72ms
+[2020.08.02-12.43.50:770][686]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2020.08.02-12.43.51:085][686]LogSavePackage: Moving '../../../../../Users/walid/Desktop/AI_Using_BP/Saved/ThirdPersonExampleMap2C28DB19494DE76AC5F74CBF418ECD48.tmp' to '../../../../../Users/walid/Desktop/AI_Using_BP/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.08.02-12.43.51:268][686]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.547
+[2020.08.02-12.43.51:349][686]LogSavePackage: Moving '../../../../../Users/walid/Desktop/AI_Using_BP/Saved/AI_ThirdPersonCharacterE45B43CD4BBD4878CAAC388701D6B450.tmp' to '../../../../../Users/walid/Desktop/AI_Using_BP/Content/ThirdPersonBP/Blueprints/AI_ThirdPersonCharacter.uasset'
+[2020.08.02-12.43.51:372][686]LogSavePackage: Moving '../../../../../Users/walid/Desktop/AI_Using_BP/Saved/AIC_ThirdPersonCharacter0BE0D7A14BB7CC89015B15868D2F5DA7.tmp' to '../../../../../Users/walid/Desktop/AI_Using_BP/Content/ThirdPersonBP/Blueprints/AIC_ThirdPersonCharacter.uasset'
+[2020.08.02-12.43.51:387][686]LogSavePackage: Moving '../../../../../Users/walid/Desktop/AI_Using_BP/Saved/BB_EnemyAI4D20A76D4A9244FA6E2F1091F802AF57.tmp' to '../../../../../Users/walid/Desktop/AI_Using_BP/Content/ThirdPersonBP/Blueprints/BT_Assets/BB_EnemyAI.uasset'
+[2020.08.02-12.43.51:445][686]AssetCheck: New page: Asset Save: multiple assets
+[2020.08.02-12.43.51:446][686]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.08.02-12.43.51:446][686]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/AI_ThirdPersonCharacter.AI_ThirdPersonCharacter
+[2020.08.02-12.43.51:446][686]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/AIC_ThirdPersonCharacter.AIC_ThirdPersonCharacter
+[2020.08.02-12.43.51:446][686]LogContentValidation: Display: Validating BlackboardData /Game/ThirdPersonBP/Blueprints/BT_Assets/BB_EnemyAI.BB_EnemyAI
+[2020.08.02-12.44.42:424][826]BlueprintLog: New page: Compile AIC_ThirdPersonCharacter
+[2020.08.02-12.44.42:737][826]LogUObjectHash: Compacting FUObjectHashTables data took   6.00ms
+[2020.08.02-12.45.46:671][994]BlueprintLog: New page: Compile AIC_ThirdPersonCharacter
+[2020.08.02-12.45.47:004][994]LogUObjectHash: Compacting FUObjectHashTables data took   5.53ms
+[2020.08.02-12.45.50:304][379]BlueprintLog: New page: Compile AIC_ThirdPersonCharacter
+[2020.08.02-12.45.50:617][379]LogUObjectHash: Compacting FUObjectHashTables data took   5.44ms
+[2020.08.02-12.46.01:992][690]BlueprintLog: New page: Compile AIC_ThirdPersonCharacter
+[2020.08.02-12.46.02:306][690]LogUObjectHash: Compacting FUObjectHashTables data took   6.22ms
+[2020.08.02-12.46.03:922][869]LogUObjectHash: Compacting FUObjectHashTables data took   5.23ms
+[2020.08.02-12.46.03:966][869]LogSavePackage: Moving '../../../../../Users/walid/Desktop/AI_Using_BP/Saved/AIC_ThirdPersonCharacterE947117843939AD2748CED87E4C5E246.tmp' to '../../../../../Users/walid/Desktop/AI_Using_BP/Content/ThirdPersonBP/Blueprints/AIC_ThirdPersonCharacter.uasset'
+[2020.08.02-12.46.03:983][869]AssetCheck: New page: Asset Save: AIC_ThirdPersonCharacter
+[2020.08.02-12.46.03:983][869]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/AIC_ThirdPersonCharacter.AIC_ThirdPersonCharacter
+[2020.08.02-12.46.50:761][708]BlueprintLog: New page: Compile AIC_ThirdPersonCharacter
+[2020.08.02-12.46.51:073][708]LogUObjectHash: Compacting FUObjectHashTables data took   5.09ms
+[2020.08.02-12.46.56:001][281]BlueprintLog: New page: Compile AIC_ThirdPersonCharacter
+[2020.08.02-12.46.56:320][281]LogUObjectHash: Compacting FUObjectHashTables data took   6.74ms
+[2020.08.02-12.53.50:769][958]LogUObjectHash: Compacting FUObjectHashTables data took   6.19ms
+[2020.08.02-12.53.50:770][958]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.056
+[2020.08.02-12.53.50:770][958]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/AI_ThirdPersonCharacter] ([1] browsable assets)...
+[2020.08.02-12.53.50:798][958]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/AI_ThirdPersonCharacter.AI_ThirdPersonCharacter]
+[2020.08.02-12.53.50:798][958]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/AI_ThirdPersonCharacter]
+[2020.08.02-12.53.50:836][958]LogSavePackage: Moving '../../../../../Users/walid/Desktop/AI_Using_BP/Saved/AI_ThirdPersonCharacter_Auto8811263B44DE548D771368E8351FFC9F4.tmp' to '../../../../../Users/walid/Desktop/AI_Using_BP/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/AI_ThirdPersonCharacter_Auto8.uasset'
+[2020.08.02-12.53.50:839][958]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/AIC_ThirdPersonCharacter] ([1] browsable assets)...
+[2020.08.02-12.53.50:839][958]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/AIC_ThirdPersonCharacter]
+[2020.08.02-12.53.50:860][958]LogSavePackage: Moving '../../../../../Users/walid/Desktop/AI_Using_BP/Saved/AIC_ThirdPersonCharacter_Auto85E282FD74C0DCBAF430827BB65CB32E4.tmp' to '../../../../../Users/walid/Desktop/AI_Using_BP/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/AIC_ThirdPersonCharacter_Auto8.uasset'
+[2020.08.02-12.53.50:863][958]LogFileHelpers: Auto-saving content packages took 0.093
+[2020.08.02-13.07.57:160][478]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2020.08.02-13.07.57:161][478]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.053
+[2020.08.02-13.07.57:162][478]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/AI_ThirdPersonCharacter] ([1] browsable assets)...
+[2020.08.02-13.07.57:176][478]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/AI_ThirdPersonCharacter.AI_ThirdPersonCharacter]
+[2020.08.02-13.07.57:176][478]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/AI_ThirdPersonCharacter]
+[2020.08.02-13.07.57:310][478]LogSavePackage: Moving '../../../../../Users/walid/Desktop/AI_Using_BP/Saved/AI_ThirdPersonCharacter_Auto9ECC12E5C469CD183F81C4D870D72196C.tmp' to '../../../../../Users/walid/Desktop/AI_Using_BP/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/AI_ThirdPersonCharacter_Auto9.uasset'
+[2020.08.02-13.07.57:317][478]LogFileHelpers: Auto-saving content packages took 0.156
+[2020.08.02-13.07.58:712][614]BlueprintLog: New page: Compile AI_ThirdPersonCharacter
+[2020.08.02-13.07.59:044][614]LogUObjectHash: Compacting FUObjectHashTables data took   4.76ms
+[2020.08.02-13.07.59:689][663]LogSavePackage: Moving '../../../../../Users/walid/Desktop/AI_Using_BP/Saved/AI_ThirdPersonCharacter3E2F3F824D33C9FB1B3CFEA0B03104FC.tmp' to '../../../../../Users/walid/Desktop/AI_Using_BP/Content/ThirdPersonBP/Blueprints/AI_ThirdPersonCharacter.uasset'
+[2020.08.02-13.07.59:720][663]AssetCheck: New page: Asset Save: AI_ThirdPersonCharacter
+[2020.08.02-13.07.59:721][663]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/AI_ThirdPersonCharacter.AI_ThirdPersonCharacter
+[2020.08.02-13.11.51:107][833]BlueprintLog: New page: Compile AI_ThirdPersonCharacter
+[2020.08.02-13.11.51:462][833]LogUObjectHash: Compacting FUObjectHashTables data took   5.67ms
+[2020.08.02-13.11.51:965][874]LogSavePackage: Moving '../../../../../Users/walid/Desktop/AI_Using_BP/Saved/AI_ThirdPersonCharacter405C2C3543F0EC8252F7E0ACFBED86C1.tmp' to '../../../../../Users/walid/Desktop/AI_Using_BP/Content/ThirdPersonBP/Blueprints/AI_ThirdPersonCharacter.uasset'
+[2020.08.02-13.11.51:995][874]AssetCheck: New page: Asset Save: AI_ThirdPersonCharacter
+[2020.08.02-13.11.51:995][874]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/AI_ThirdPersonCharacter.AI_ThirdPersonCharacter
+[2020.08.02-13.17.52:170][532]BlueprintLog: New page: Compile AI_ThirdPersonCharacter
+[2020.08.02-13.17.52:500][532]LogUObjectHash: Compacting FUObjectHashTables data took   5.90ms
+[2020.08.02-13.17.53:087][577]LogSavePackage: Moving '../../../../../Users/walid/Desktop/AI_Using_BP/Saved/AI_ThirdPersonCharacter0B435EFF485EABAB181F6CA8CEF8C7BE.tmp' to '../../../../../Users/walid/Desktop/AI_Using_BP/Content/ThirdPersonBP/Blueprints/AI_ThirdPersonCharacter.uasset'
+[2020.08.02-13.17.53:117][577]AssetCheck: New page: Asset Save: AI_ThirdPersonCharacter
+[2020.08.02-13.17.53:117][577]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/AI_ThirdPersonCharacter.AI_ThirdPersonCharacter
+[2020.08.02-13.18.04:261][879]BlueprintLog: New page: Compile AI_ThirdPersonCharacter
+[2020.08.02-13.18.04:602][879]LogUObjectHash: Compacting FUObjectHashTables data took   5.51ms
+[2020.08.02-13.18.05:498][966]LogSavePackage: Moving '../../../../../Users/walid/Desktop/AI_Using_BP/Saved/AI_ThirdPersonCharacter4F13C19A4367F371A1C9778006383832.tmp' to '../../../../../Users/walid/Desktop/AI_Using_BP/Content/ThirdPersonBP/Blueprints/AI_ThirdPersonCharacter.uasset'
+[2020.08.02-13.18.05:529][966]AssetCheck: New page: Asset Save: AI_ThirdPersonCharacter
+[2020.08.02-13.18.05:529][966]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/AI_ThirdPersonCharacter.AI_ThirdPersonCharacter
+[2020.08.02-13.18.31:857][349]LogUObjectHash: Compacting FUObjectHashTables data took   5.08ms
+[2020.08.02-13.18.32:371][349]LogSavePackage: Moving '../../../../../Users/walid/Desktop/AI_Using_BP/Saved/ThirdPersonExampleMap_Auto0E6F9384142BA7FC1353F61BCEB01A593.tmp' to '../../../../../Users/walid/Desktop/AI_Using_BP/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto0.umap'
+[2020.08.02-13.18.32:376][349]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.571
+[2020.08.02-13.18.32:376][349]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.571
+[2020.08.02-13.20.17:125][312]LogSavePackage: Moving '../../../../../Users/walid/Desktop/AI_Using_BP/Saved/AI_ThirdPersonCharacterBBA654DD4738041891919D86134B1413.tmp' to '../../../../../Users/walid/Desktop/AI_Using_BP/Content/ThirdPersonBP/Blueprints/AI_ThirdPersonCharacter.uasset'
+[2020.08.02-13.20.17:160][312]AssetCheck: New page: Asset Save: AI_ThirdPersonCharacter
+[2020.08.02-13.20.17:160][312]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/AI_ThirdPersonCharacter.AI_ThirdPersonCharacter
+[2020.08.02-13.20.19:286][524]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2020.08.02-13.20.19:467][524]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2020.08.02-13.20.19:798][524]LogSavePackage: Moving '../../../../../Users/walid/Desktop/AI_Using_BP/Saved/ThirdPersonExampleMap5D710FF6437B633AFE5CF3945305C51E.tmp' to '../../../../../Users/walid/Desktop/AI_Using_BP/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.08.02-13.20.19:821][524]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.413
+[2020.08.02-13.20.19:875][524]LogSavePackage: Moving '../../../../../Users/walid/Desktop/AI_Using_BP/Saved/AIC_ThirdPersonCharacter7117183C46C54879C12238AFE8FAF18A.tmp' to '../../../../../Users/walid/Desktop/AI_Using_BP/Content/ThirdPersonBP/Blueprints/AIC_ThirdPersonCharacter.uasset'
+[2020.08.02-13.20.19:906][524]AssetCheck: New page: Asset Save: multiple assets
+[2020.08.02-13.20.19:906][524]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.08.02-13.20.19:906][524]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/AIC_ThirdPersonCharacter.AIC_ThirdPersonCharacter
+[2020.08.02-13.21.21:521][719]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/BT_Assets/BTTask_BlueprintBase_New.BTTask_BlueprintBase_New
+[2020.08.02-13.21.22:723][719]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/ThirdPersonBP/Blueprints/BT_Assets/BTTask_BlueprintBase_New.
+[2020.08.02-13.21.35:023][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   5.15ms
+[2020.08.02-13.21.35:032][ 87]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/BT_Assets/BBT_MoveTo.SKEL_BBT_MoveTo_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/BT_Assets/BTTask_BlueprintBase_New.PackageMetaData'
+[2020.08.02-13.21.35:033][ 87]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/BT_Assets/BBT_MoveTo.BBT_MoveTo_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/BT_Assets/BTTask_BlueprintBase_New.PackageMetaData'
+[2020.08.02-13.21.35:070][ 87]LogSavePackage: Moving '../../../../../Users/walid/Desktop/AI_Using_BP/Saved/BBT_MoveToB93009914A9B87AED289AFAC96CD5272.tmp' to '../../../../../Users/walid/Desktop/AI_Using_BP/Content/ThirdPersonBP/Blueprints/BT_Assets/BBT_MoveTo.uasset'
+[2020.08.02-13.21.35:365][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2020.08.02-13.21.35:419][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2020.08.02-13.21.35:466][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2020.08.02-13.21.35:517][ 87]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/ThirdPersonBP/Blueprints/BT_Assets/BBT_MoveTo.
+[2020.08.02-13.21.35:530][ 87]AssetCheck: New page: Asset Save: BBT_MoveTo
+[2020.08.02-13.21.35:530][ 87]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/BT_Assets/BBT_MoveTo.BBT_MoveTo
+[2020.08.02-13.21.37:419][272]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/BT_Assets/Tasks/BBT_MoveTo.BBT_MoveTo_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/BT_Assets/BBT_MoveTo.PackageMetaData'
+[2020.08.02-13.21.37:419][272]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/BT_Assets/Tasks/BBT_MoveTo.SKEL_BBT_MoveTo_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/BT_Assets/BBT_MoveTo.PackageMetaData'
+[2020.08.02-13.21.37:454][272]LogSavePackage: Moving '../../../../../Users/walid/Desktop/AI_Using_BP/Saved/BBT_MoveTo019A0B8946FC1466F9630BB145B8C31E.tmp' to '../../../../../Users/walid/Desktop/AI_Using_BP/Content/ThirdPersonBP/Blueprints/BT_Assets/Tasks/BBT_MoveTo.uasset'
+[2020.08.02-13.21.37:798][272]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2020.08.02-13.21.37:855][272]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2020.08.02-13.21.37:901][272]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2020.08.02-13.21.37:954][272]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/ThirdPersonBP/Blueprints/BT_Assets/Tasks/BBT_MoveTo.
+[2020.08.02-13.21.37:968][272]AssetCheck: New page: Asset Save: BBT_MoveTo
+[2020.08.02-13.21.37:968][272]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/BT_Assets/Tasks/BBT_MoveTo.BBT_MoveTo
+[2020.08.02-13.23.25:044][743]LogEditorTransaction: Undo Add Node
+[2020.08.02-13.23.25:517][747]LogEditorTransaction: Undo Add Node
+[2020.08.02-13.23.25:923][788]LogEditorTransaction: Undo Delete current selection
+[2020.08.02-13.23.26:417][843]LogEditorTransaction: Undo Delete current selection
+[2020.08.02-13.23.26:757][883]LogEditorTransaction: Undo Create Pin Link
+[2020.08.02-13.23.27:158][929]LogEditorTransaction: Undo Move Node
+[2020.08.02-13.23.27:616][982]LogEditorTransaction: Undo Add Node
+[2020.08.02-13.23.27:957][ 20]LogEditorTransaction: Undo Delete current selection
+[2020.08.02-13.23.28:341][ 64]LogEditorTransaction: Undo Paste clipboard contents
+[2020.08.02-13.23.30:533][319]BlueprintLog: New page: Compile BTT_FindNavigableLocation
+[2020.08.02-13.23.30:842][319]LogUObjectHash: Compacting FUObjectHashTables data took   5.42ms
+[2020.08.02-13.24.08:423][692]BlueprintLog: New page: Compile BBT_MoveTo
+[2020.08.02-13.24.08:424][692]LogBlueprint: Error: [Compiler BBT_MoveTo] The current value of the ' Key ' pin is invalid: 'Key' in action 'Set Blackboard Value as Vector' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2020.08.02-13.24.08:478][692]LogUObjectHash: Compacting FUObjectHashTables data took   5.44ms
+[2020.08.02-13.24.52:891][814]BlueprintLog: New page: Compile BBT_MoveTo
+[2020.08.02-13.24.52:947][814]LogUObjectHash: Compacting FUObjectHashTables data took   5.30ms
+[2020.08.02-13.25.41:263][322]LogSavePackage: Moving '../../../../../Users/walid/Desktop/AI_Using_BP/Saved/BBT_MoveTo2A6E2CD64FC575863F67DF99055319D4.tmp' to '../../../../../Users/walid/Desktop/AI_Using_BP/Content/ThirdPersonBP/Blueprints/BT_Assets/Tasks/BBT_MoveTo.uasset'
+[2020.08.02-13.25.41:282][322]AssetCheck: New page: Asset Save: BBT_MoveTo
+[2020.08.02-13.25.41:282][322]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/BT_Assets/Tasks/BBT_MoveTo.BBT_MoveTo
+[2020.08.02-13.25.42:412][438]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.08.02-13.25.42:412][438]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.02-13.25.44:931][694]LogUObjectHash: Compacting FUObjectHashTables data took   5.30ms
+[2020.08.02-13.25.46:531][694]LogSlate: Window 'Delete Assets' being destroyed
+[2020.08.02-13.25.46:690][694]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2020.08.02-13.25.46:747][694]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2020.08.02-13.25.46:792][694]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2020.08.02-13.26.50:218][870]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.08.02-13.26.50:218][870]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.02-13.29.57:655][878]LogUObjectHash: Compacting FUObjectHashTables data took  19.62ms
+[2020.08.02-13.29.57:885][878]LogSavePackage: Moving '../../../../../Users/walid/Desktop/AI_Using_BP/Saved/BT_EnemeyAI2A71A58A463D545906FDE0980114F603.tmp' to '../../../../../Users/walid/Desktop/AI_Using_BP/Content/ThirdPersonBP/Blueprints/BT_Assets/BT_EnemeyAI.uasset'
+[2020.08.02-13.29.57:986][878]LogSavePackage: Moving '../../../../../Users/walid/Desktop/AI_Using_BP/Saved/BTT_FindNavigableLocation754B06964FB0E7AD2F286AA02510A861.tmp' to '../../../../../Users/walid/Desktop/AI_Using_BP/Content/ThirdPersonBP/Blueprints/BT_Assets/Tasks/BTT_FindNavigableLocation.uasset'
+[2020.08.02-13.29.58:051][878]AssetCheck: New page: Asset Save: multiple assets
+[2020.08.02-13.29.58:051][878]LogContentValidation: Display: Validating BehaviorTree /Game/ThirdPersonBP/Blueprints/BT_Assets/BT_EnemeyAI.BT_EnemeyAI
+[2020.08.02-13.29.58:052][878]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/BT_Assets/Tasks/BTT_FindNavigableLocation.BTT_FindNavigableLocation
+[2020.08.02-13.31.10:713][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2020.08.02-13.31.10:729][ 69]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.087
+[2020.08.02-13.31.10:729][ 69]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/BT_Assets/BT_EnemeyAI] ([1] browsable assets)...
+[2020.08.02-13.31.10:729][ 69]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/BT_Assets/BT_EnemeyAI]
+[2020.08.02-13.31.10:745][ 69]LogSavePackage: Moving '../../../../../Users/walid/Desktop/AI_Using_BP/Saved/BT_EnemeyAI_Auto1A622FFC748F16640D44A199046EE6959.tmp' to '../../../../../Users/walid/Desktop/AI_Using_BP/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/BT_Assets/BT_EnemeyAI_Auto1.uasset'
+[2020.08.02-13.31.10:749][ 69]LogFileHelpers: Auto-saving content packages took 0.020
+[2020.08.02-13.34.23:116][908]LogSavePackage: Moving '../../../../../Users/walid/Desktop/AI_Using_BP/Saved/BT_EnemeyAI41EDFA894A13740D1763D9B6CD947A9F.tmp' to '../../../../../Users/walid/Desktop/AI_Using_BP/Content/ThirdPersonBP/Blueprints/BT_Assets/BT_EnemeyAI.uasset'
+[2020.08.02-13.34.23:150][908]AssetCheck: New page: Asset Save: BT_EnemeyAI
+[2020.08.02-13.34.23:150][908]LogContentValidation: Display: Validating BehaviorTree /Game/ThirdPersonBP/Blueprints/BT_Assets/BT_EnemeyAI.BT_EnemeyAI
+[2020.08.02-13.34.24:858][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2020.08.02-13.36.22:740][894]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2020.08.02-13.41.30:841][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2020.08.02-13.41.30:847][ 62]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.059
+[2020.08.02-13.41.30:847][ 62]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/BT_Assets/BT_EnemeyAI] ([1] browsable assets)...
+[2020.08.02-13.41.30:847][ 62]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/BT_Assets/BT_EnemeyAI]
+[2020.08.02-13.41.30:866][ 62]LogSavePackage: Moving '../../../../../Users/walid/Desktop/AI_Using_BP/Saved/BT_EnemeyAI_Auto23F3E99144950B4F1661D7492B289BEF7.tmp' to '../../../../../Users/walid/Desktop/AI_Using_BP/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/BT_Assets/BT_EnemeyAI_Auto2.uasset'
+[2020.08.02-13.41.30:869][ 62]LogFileHelpers: Auto-saving content packages took 0.023
+[2020.08.02-13.51.30:999][733]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2020.08.02-13.51.31:004][733]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.058
+[2020.08.02-13.51.31:004][733]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/BT_Assets/BT_EnemeyAI] ([1] browsable assets)...
+[2020.08.02-13.51.31:004][733]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/BT_Assets/BT_EnemeyAI]
+[2020.08.02-13.51.31:024][733]LogSavePackage: Moving '../../../../../Users/walid/Desktop/AI_Using_BP/Saved/BT_EnemeyAI_Auto33D22ABE84E98F49C6173BE90354E5EA2.tmp' to '../../../../../Users/walid/Desktop/AI_Using_BP/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/BT_Assets/BT_EnemeyAI_Auto3.uasset'
+[2020.08.02-13.51.31:027][733]LogFileHelpers: Auto-saving content packages took 0.023
+[2020.08.02-13.52.14:307][294]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2020.08.02-13.52.14:357][294]LogSavePackage: Moving '../../../../../Users/walid/Desktop/AI_Using_BP/Saved/BT_EnemeyAI2FD45B0B43A6D4F856D08CA3FFCB3D79.tmp' to '../../../../../Users/walid/Desktop/AI_Using_BP/Content/ThirdPersonBP/Blueprints/BT_Assets/BT_EnemeyAI.uasset'
+[2020.08.02-13.52.14:378][294]AssetCheck: New page: Asset Save: BT_EnemeyAI
+[2020.08.02-13.52.14:378][294]LogContentValidation: Display: Validating BehaviorTree /Game/ThirdPersonBP/Blueprints/BT_Assets/BT_EnemeyAI.BT_EnemeyAI
