@@ -751,3 +751,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.08.02-09.09.29:325][224]AssetCheck: New page: Asset Save: multiple assets
 [2020.08.02-09.09.29:325][224]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
 [2020.08.02-09.09.29:325][224]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/AI_ThirdPersonCharacter.AI_ThirdPersonCharacter
+[2020.08.02-09.19.30:824][575]LogUObjectHash: Compacting FUObjectHashTables data took   4.68ms
+[2020.08.02-09.19.31:225][575]LogSavePackage: Moving '../../../../../Users/walid/Desktop/AI_Using_BP/Saved/ThirdPersonExampleMap_Auto239407D364E5DA9FB211A69AD069865D0.tmp' to '../../../../../Users/walid/Desktop/AI_Using_BP/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap'
+[2020.08.02-09.19.31:229][575]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.448
+[2020.08.02-09.19.31:229][575]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.448
