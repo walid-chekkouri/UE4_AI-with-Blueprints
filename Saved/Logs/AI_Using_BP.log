@@ -1413,3 +1413,40 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.08.02-10.29.18:392][394]LogSavePackage: Moving '../../../../../Users/walid/Desktop/AI_Using_BP/Saved/ThirdPersonExampleMap_Auto299C8BB764133F4E544AFFAB6BE7D52A6.tmp' to '../../../../../Users/walid/Desktop/AI_Using_BP/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap'
 [2020.08.02-10.29.18:396][394]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.332
 [2020.08.02-10.29.18:397][394]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.332
+[2020.08.02-10.38.12:645][525]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/AIC_ThirdPersonCharacter.AIC_ThirdPersonCharacter
+[2020.08.02-10.38.27:498][721]LogSlate: Window 'AIC_ThirdPersonCharacter' being destroyed
+[2020.08.02-10.38.27:515][721]LogSlate: Window 'AIC_ThirdPersonCharacter' being destroyed
+[2020.08.02-10.38.27:523][721]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.08.02-10.38.27:523][721]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.02-10.38.46:988][737]BlueprintLog: New page: Compile AI_ThirdPersonCharacter
+[2020.08.02-10.38.47:286][737]LogUObjectHash: Compacting FUObjectHashTables data took   5.37ms
+[2020.08.02-10.38.47:719][772]LogRenderer: Reallocating scene render targets to support 988x612 Format 9 NumSamples 1 (Frame:1).
+[2020.08.02-10.39.20:502][797]LogUObjectHash: Compacting FUObjectHashTables data took   5.64ms
+[2020.08.02-10.39.21:078][797]LogSavePackage: Moving '../../../../../Users/walid/Desktop/AI_Using_BP/Saved/ThirdPersonExampleMap_Auto3C7A0717F4C6117170B5BF0B3FFA46DF2.tmp' to '../../../../../Users/walid/Desktop/AI_Using_BP/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto3.umap'
+[2020.08.02-10.39.21:084][797]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.626
+[2020.08.02-10.39.21:084][797]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.626
+[2020.08.02-10.39.21:085][797]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/AI_ThirdPersonCharacter] ([1] browsable assets)...
+[2020.08.02-10.39.21:106][797]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/AI_ThirdPersonCharacter.AI_ThirdPersonCharacter]
+[2020.08.02-10.39.21:106][797]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/AI_ThirdPersonCharacter]
+[2020.08.02-10.39.21:142][797]LogSavePackage: Moving '../../../../../Users/walid/Desktop/AI_Using_BP/Saved/AI_ThirdPersonCharacter_Auto3FEAF50B04232246524A72D8725EB502B.tmp' to '../../../../../Users/walid/Desktop/AI_Using_BP/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/AI_ThirdPersonCharacter_Auto3.uasset'
+[2020.08.02-10.39.21:164][797]LogFileHelpers: Auto-saving content packages took 0.080
+[2020.08.02-10.41.19:468][789]BlueprintLog: New page: Compile AI_ThirdPersonCharacter
+[2020.08.02-10.41.19:772][789]LogUObjectHash: Compacting FUObjectHashTables data took   4.86ms
+[2020.08.02-10.41.51:830][416]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.08.02-10.42.25:225][749]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.08.02-10.42.25:537][749]LogUObjectHash: Compacting FUObjectHashTables data took   5.40ms
+[2020.08.02-10.42.27:055][921]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.08.02-10.42.31:036][385]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.08.02-10.42.31:348][385]LogUObjectHash: Compacting FUObjectHashTables data took   5.11ms
+[2020.08.02-10.44.22:205][285]LogUObjectHash: Compacting FUObjectHashTables data took   5.40ms
+[2020.08.02-10.44.22:274][285]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2020.08.02-10.44.22:577][285]LogSavePackage: Moving '../../../../../Users/walid/Desktop/AI_Using_BP/Saved/ThirdPersonExampleMapF5E651C24760E68A28FD53A0180A3F8B.tmp' to '../../../../../Users/walid/Desktop/AI_Using_BP/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.08.02-10.44.22:599][285]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.368
+[2020.08.02-10.44.22:891][285]LogSavePackage: Moving '../../../../../Users/walid/Desktop/AI_Using_BP/Saved/ThirdPersonExampleMap_BuiltDataF37369384CC4DED7CCD67D8A9323A943.tmp' to '../../../../../Users/walid/Desktop/AI_Using_BP/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.08.02-10.44.22:953][285]LogSavePackage: Moving '../../../../../Users/walid/Desktop/AI_Using_BP/Saved/AI_ThirdPersonCharacterE85905164CCE8B9C96C88E8405B76070.tmp' to '../../../../../Users/walid/Desktop/AI_Using_BP/Content/ThirdPersonBP/Blueprints/AI_ThirdPersonCharacter.uasset'
+[2020.08.02-10.44.23:040][285]LogSavePackage: Moving '../../../../../Users/walid/Desktop/AI_Using_BP/Saved/ThirdPersonCharacter4F72CBE042A568FD58B51A8E9F764347.tmp' to '../../../../../Users/walid/Desktop/AI_Using_BP/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.08.02-10.44.23:087][285]AssetCheck: New page: Asset Save: multiple assets
+[2020.08.02-10.44.23:087][285]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.08.02-10.44.23:087][285]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.08.02-10.44.23:087][285]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/AI_ThirdPersonCharacter.AI_ThirdPersonCharacter
+[2020.08.02-10.44.23:087][285]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
